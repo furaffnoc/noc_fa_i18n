@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i18n_share">分享</string>
+    <string name="i18n_copy_link">复制链接</string>
+    <string name="i18n_about">关于</string>
+    <string name="i18n_description_by">由</string>
+    <string name="i18n_none_u">无</string>
+    <string name="i18n_none">无</string>
+    <string name="i18n_rating_general">好</string>
+    <string name="i18n_search">搜索</string>
+    <string name="i18n_submissions">提交</string>
+    <string name="i18n_notifications">消息</string>
+    <string name="i18n_notes">记录</string>
+    <string name="i18n_settings">设置</string>
+    <string name="i18n_nothing">什么东西都没有</string>
+    <string name="i18n_comments">注释</string>
+    <string name="i18n_favorites">喜爱的</string>
+    <string name="i18n_views">视图</string>
+    <string name="i18n_see_all">查看所有</string>
+    <string name="i18n_comment_1">评论…</string>
+    <string name="i18n_reply">回复</string>
+
+    <string name="i18n_about_dialog_more_info">更多信息</string>
+    <string name="i18n_about_dialog_contact">联系</string>
+
+    <string name="i18n_browse_not_found">浏览页面无法加载…</string>
+
+    <string name="i18n_drawer_nsfw">R18</string>
+    <string name="i18n_drawer_nsfw_on">开启</string>
+    <string name="i18n_drawer_nsfw_off">关闭</string>
+
+    <string name="i18n_drawer_navigation_my_page">我的主页</string>
+
+    <string name="i18n_drawer_navigation_title">导航</string>
+    <string name="i18n_drawer_navigation_browse">浏览</string>
+
+    <string name="i18n_drawer_settings_full_app">完整版app</string>
+
+    <string name="i18n_drawer_account_title">账户</string>
+    <string name="i18n_drawer_account_logout">登出</string>
+
+    <string name="i18n_login_login">登录</string>
+    <string name="i18n_login_password">密码</string>
+    <string name="i18n_login_captcha_description">验证码</string>
+    <string name="i18n_login_verification">验证</string>
+    <string name="i18n_login_log_in">注册</string>
+    <string name="i18n_login_auth_error">授权错误</string>
+    <string name="i18n_login_sign_in">签到</string>
+    <string name="i18n_login_pass_reset">密码重置</string>
+
+    <string name="i18n_main_settings_image_quality">图像质量</string>
+    <string name="i18n_main_settings_auto_download">当喜欢时自动下载图像</string>
+
+    <string name="i18n_main_notifications_enabled_title">启用</string>
+    <string name="i18n_main_notifications_timeout_title">超时</string>
+    <string name="i18n_main_notifications_option_title">选项</string>
+    <string name="i18n_main_notifications_option_sound_title">声音</string>
+    <string name="i18n_main_notifications_option_vibration_title">振动</string>
+    <string name="i18n_main_notifications_content_title">内容</string>
+    <string name="i18n_main_notifications_content_journals_title">报告</string>
+    <string name="i18n_main_notifications_content_watched_title">已关注的</string>
+
+    <string name="i18n_message_center_comments_item_title_pre">已回复</string>
+    <string name="i18n_message_center_favorited">喜爱的</string>
+    <string name="i18n_message_center_posted_by">发布来自</string>
+
+    <string name="i18n_note_post">发布</string>
+    <string name="i18n_note_from">从</string>
+    <string name="i18n_note_recipient_1">接收者:</string>
+    <string name="i18n_note_subject_1">主题:</string>
+    <string name="i18n_note_reply_1">回复:</string>
+
+    <string name="i18n_notes_not_found">未能找到笔记</string>
+
+    <string name="i18n_search_bar_help">帮助</string>
+
+    <string name="i18n_search_help_ps_title">权重搜索</string>
+    <string name="i18n_search_help_ps_text">可被搜索的基础布尔值:\n\u25CF 和: hello &amp; world\n\u25CF 或 : hello | world\n\u25CF 无法使用: hello -world -or- hello !world\n\u25CF 分组: (hello world)\n\n例如: ( cat -dog ) | ( cat -mouse)</string>
+
+    <string name="i18n_search_help_cap_title">功能</string>
+    <string name="i18n_search_help_cap_text">\u25CF 区域搜索: @title hello @message world\n\u25CF 短语搜索: \'hello world\'\n\u25CF 相近语段搜索: \'hello world\'~10\n\u25CF 法定匹配: \'the world is a wonderful place\'/3\n\n例如: \'hello world\' @title \'示例程序\'~5 @message python -(php|perl)</string>
+
+    <string name="i18n_search_help_af_title">可用字段</string>
+    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower (artist name as it appears in their userpage URL)\n\u25CF \@keywords\n\n例如: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
+
+    <string name="i18n_submissions_not_found">在列表里没有图像提交</string>
+
+    <string name="i18n_submissions_description_remove">移除</string>
+
+    <string name="i18n_view_rating">评分</string>
+    <string name="i18n_view_posted">发布的</string>
+    <string name="i18n_view_category">类别</string>
+    <string name="i18n_view_species">种类</string>
+    <string name="i18n_view_gender">性别</string>
+
+    <string name="i18n_view_comments_edit_hide_comment">隐藏</string>
+
+    <string name="i18n_user_recent_watched">最近访问</string>
+    <string name="i18n_user_recent_watchers">最近的访客</string>
+
+    <string name="i18n_message_center_count">计数</string>
+    <string name="i18n_message_center_delete">删除</string>
+
+    <string name="i18n_notes_folders">文件夹</string>
+    <string name="i18n_notes_high">高清</string>
+    <string name="i18n_notes_medium">中等</string>
+    <string name="i18n_notes_low">标清</string>
+</resources>
