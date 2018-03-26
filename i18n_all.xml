@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i18n_share">Share</string>
+    <string name="i18n_copy_link">Copy link</string>
+    <string name="i18n_about">About</string>
+    <string name="i18n_description_by">by</string>
+    <string name="i18n_none_u">None</string>
+    <string name="i18n_none">none</string>
+    <string name="i18n_rating_general">G</string>
+    <string name="i18n_search">Search</string>
+    <string name="i18n_submissions">Submissions</string>
+    <string name="i18n_notifications">Notifications</string>
+    <string name="i18n_notes">Notes</string>
+    <string name="i18n_settings">Settings</string>
+    <string name="i18n_nothing">Nothing</string>
+    <string name="i18n_comments">Comments</string>
+    <string name="i18n_favorites">Favorites</string>
+    <string name="i18n_views">Views</string>
+    <string name="i18n_see_all">See All</string>
+    <string name="i18n_comment_1">Comment…</string>
+    <string name="i18n_reply">Reply</string>
+
+    <string name="i18n_about_dialog_more_info">More info</string>
+    <string name="i18n_about_dialog_contact">Contact</string>
+
+    <string name="i18n_browse_not_found">Browse not loaded…</string>
+
+    <string name="i18n_drawer_nsfw">NSFW</string>
+    <string name="i18n_drawer_nsfw_on">On</string>
+    <string name="i18n_drawer_nsfw_off">Off</string>
+
+    <string name="i18n_drawer_navigation_my_page">My page</string>
+
+    <string name="i18n_drawer_navigation_title">Navigation</string>
+    <string name="i18n_drawer_navigation_browse">Browse</string>
+
+    <string name="i18n_drawer_settings_full_app">Full app</string>
+
+    <string name="i18n_drawer_account_title">Account</string>
+    <string name="i18n_drawer_account_logout">Logout</string>
+
+    <string name="i18n_login_login">Login</string>
+    <string name="i18n_login_password">Password</string>
+    <string name="i18n_login_captcha_description">captcha</string>
+    <string name="i18n_login_verification">Verification</string>
+    <string name="i18n_login_log_in">Log In</string>
+    <string name="i18n_login_auth_error">Authorization error</string>
+    <string name="i18n_login_sign_in">Sign In</string>
+    <string name="i18n_login_pass_reset">Password reset</string>
+
+    <string name="i18n_main_settings_image_quality">Image Quality</string>
+    <string name="i18n_main_settings_auto_download">Auto download image when faved</string>
+
+    <string name="i18n_main_notifications_enabled_title">Enabled</string>
+    <string name="i18n_main_notifications_timeout_title">Timeout</string>
+    <string name="i18n_main_notifications_option_title">Options</string>
+    <string name="i18n_main_notifications_option_sound_title">Sound</string>
+    <string name="i18n_main_notifications_option_vibration_title">Vibration</string>
+    <string name="i18n_main_notifications_content_title">Content</string>
+    <string name="i18n_main_notifications_content_journals_title">Journals</string>
+    <string name="i18n_main_notifications_content_watched_title">Watched</string>
+
+    <string name="i18n_message_center_comments_item_title_pre">has replied to</string>
+    <string name="i18n_message_center_favorited">favorited</string>
+    <string name="i18n_message_center_posted_by">posted by</string>
+
+    <string name="i18n_note_post">Post</string>
+    <string name="i18n_note_from">from</string>
+    <string name="i18n_note_recipient_1">Recipient:</string>
+    <string name="i18n_note_subject_1">Subject:</string>
+    <string name="i18n_note_reply_1">Reply:</string>
+
+    <string name="i18n_notes_not_found">Notes not found</string>
+
+    <string name="i18n_search_bar_help">Help</string>
+
+    <string name="i18n_search_help_ps_title">Power Search</string>
+    <string name="i18n_search_help_ps_text">Search understands basic boolean operators:\n\u25CF AND: hello &amp; world\n\u25CF OR : hello | world\n\u25CF NOT: hello -world -or- hello !world\n\u25CF Grouping: (hello world)\n\nExample: ( cat -dog ) | ( cat -mouse)</string>
+
+    <string name="i18n_search_help_cap_title">Capabilities</string>
+    <string name="i18n_search_help_cap_text">\u25CF Field searching: @title hello @message world\n\u25CF Phrase searching: \'hello world\'\n\u25CF Word proximity searching: \'hello world\'~10\n\u25CF Quorum matching: \'the world is a wonderful place\'/3\n\nExample: \'hello world\' @title \'example program\'~5 @message python -(php|perl)</string>
+
+    <string name="i18n_search_help_af_title">Available Fields</string>
+    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower (artist name as it appears in their userpage URL)\n\u25CF \@keywords\n\nExample: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
+
+    <string name="i18n_submissions_not_found">There are no imaged submissions to list</string>
+
+    <string name="i18n_submissions_description_remove">Remove</string>
+
+    <string name="i18n_view_rating">Rating</string>
+    <string name="i18n_view_posted">Posted</string>
+    <string name="i18n_view_category">Category</string>
+    <string name="i18n_view_species">Species</string>
+    <string name="i18n_view_gender">Gender</string>
+
+    <string name="i18n_view_comments_edit_hide_comment">Hide</string>
+
+    <string name="i18n_user_recent_watched">Recent watched</string>
+    <string name="i18n_user_recent_watchers">Recent watchers</string>
+
+    <string name="i18n_message_center_count">Count</string>
+    <string name="i18n_message_center_delete">Delete</string>
+
+    <string name="i18n_notes_folders">folders</string>
+    <string name="i18n_notes_high">High</string>
+    <string name="i18n_notes_medium">Medium</string>
+    <string name="i18n_notes_low">Low</string>
+</resources>
