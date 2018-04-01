@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n_app_name">Fur Affinity NOC</string>
+
     <string name="i18n_share">Share</string>
     <string name="i18n_copy_link">Copy link</string>
     <string name="i18n_about">About</string>
@@ -7,6 +9,8 @@
     <string name="i18n_none_u">None</string>
     <string name="i18n_none">none</string>
     <string name="i18n_rating_general">G</string>
+    <string name="i18n_rating_mature">M</string>
+    <string name="i18n_rating_adult">A</string>
     <string name="i18n_search">Search</string>
     <string name="i18n_submissions">Submissions</string>
     <string name="i18n_notifications">Notifications</string>
@@ -15,10 +19,38 @@
     <string name="i18n_nothing">Nothing</string>
     <string name="i18n_comments">Comments</string>
     <string name="i18n_favorites">Favorites</string>
+    <string name="i18n_gallery">Gallery</string>
     <string name="i18n_views">Views</string>
     <string name="i18n_see_all">See All</string>
     <string name="i18n_comment_1">Comment…</string>
     <string name="i18n_reply">Reply</string>
+    <string name="i18n_filter">Filter</string>
+    <string name="i18n_type">Type</string>
+    <string name="i18n_rating_general_full">General</string>
+    <string name="i18n_rating_mature_full">Mature</string>
+    <string name="i18n_rating_adult_full">Adult</string>
+    <string name="i18n_view">View</string>
+    <string name="i18n_column_count">Column count</string>
+    <string name="i18n_criteria">Criteria</string>
+    <string name="i18n_order">Order</string>
+    <string name="i18n_results">Results</string>
+    <string name="i18n_range">Range</string>
+    <string name="i18n_art">Art</string>
+    <string name="i18n_music">Music</string>
+    <string name="i18n_flash">Flash</string>
+    <string name="i18n_story">Story</string>
+    <string name="i18n_photos">Photos</string>
+    <string name="i18n_poetry">Poetry</string>
+    <string name="i18n_ordered">Ordered</string>
+    <string name="i18n_archive">Archive</string>
+    <string name="i18n_mark_unread">Mark unread</string>
+    <string name="i18n_restore">Restore</string>
+    <string name="i18n_browser_open">Browser open</string>
+    <string name="i18n_compose">Compose</string>
+    <string name="i18n_download">Download</string>
+    <string name="i18n_see">See</string>
+    <string name="i18n_note_compose">Note Compose</string>
+    <string name="i18n_watchers">Watchers</string>
 
     <string name="i18n_about_dialog_more_info">More info</string>
     <string name="i18n_about_dialog_contact">Contact</string>
@@ -32,12 +64,14 @@
     <string name="i18n_drawer_navigation_my_page">My page</string>
 
     <string name="i18n_drawer_navigation_title">Navigation</string>
-    <string name="i18n_drawer_navigation_browse">Browse</string>
+    <string name="i18n_browse">Browse</string>
 
     <string name="i18n_drawer_settings_full_app">Full app</string>
 
     <string name="i18n_drawer_account_title">Account</string>
     <string name="i18n_drawer_account_logout">Logout</string>
+
+    <string name="i18n_title_login">Fur Affinity Login</string>
 
     <string name="i18n_login_login">Login</string>
     <string name="i18n_login_password">Password</string>
@@ -51,14 +85,14 @@
     <string name="i18n_main_settings_image_quality">Image Quality</string>
     <string name="i18n_main_settings_auto_download">Auto download image when faved</string>
 
-    <string name="i18n_main_notifications_enabled_title">Enabled</string>
-    <string name="i18n_main_notifications_timeout_title">Timeout</string>
-    <string name="i18n_main_notifications_option_title">Options</string>
-    <string name="i18n_main_notifications_option_sound_title">Sound</string>
-    <string name="i18n_main_notifications_option_vibration_title">Vibration</string>
-    <string name="i18n_main_notifications_content_title">Content</string>
-    <string name="i18n_main_notifications_content_journals_title">Journals</string>
-    <string name="i18n_main_notifications_content_watched_title">Watched</string>
+    <string name="i18n_enabled_title">Enabled</string>
+    <string name="i18n_timeout_title">Timeout</string>
+    <string name="i18n_option_title">Options</string>
+    <string name="i18n_sound_title">Sound</string>
+    <string name="i18n_vibration_title">Vibration</string>
+    <string name="i18n_content_title">Content</string>
+    <string name="i18n_journals_title">Journals</string>
+    <string name="i18n_watched_title">Watched</string>
 
     <string name="i18n_message_center_comments_item_title_pre">has replied to</string>
     <string name="i18n_message_center_favorited">favorited</string>
@@ -98,11 +132,115 @@
     <string name="i18n_user_recent_watched">Recent watched</string>
     <string name="i18n_user_recent_watchers">Recent watchers</string>
 
-    <string name="i18n_message_center_count">Count</string>
-    <string name="i18n_message_center_delete">Delete</string>
+    <string name="i18n_count">Count</string>
+    <string name="i18n_delete">Delete</string>
+    <string name="i18n_trash">Trash</string>
+    <string name="i18n_watch">+Watch</string>
+    <string name="i18n_un_watch">-Watch</string>
+    <string name="i18n_fav">Add to Fav</string>
+    <string name="i18n_un_fav">Remove from Fav</string>
 
     <string name="i18n_notes_folders">folders</string>
     <string name="i18n_notes_high">High</string>
     <string name="i18n_notes_medium">Medium</string>
     <string name="i18n_notes_low">Low</string>
+
+    <string-array name="i18n_settings_pref_image_quality">
+        <item>Very High</item>
+        <item>High</item>
+        <item>Middle</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="i18n_settings_notifications_timeout">
+        <item>6 hours</item>
+        <item>4 hours</item>
+        <item>2 hours</item>
+        <item>1 hours</item>
+        <item>30 minutes</item>
+        <item>10 minutes</item>
+        <item>5 minutes</item>
+        <item>1 minutes</item>
+    </string-array>
+
+    <string-array name="i18n_notes_directories">
+        <item>Inbox</item>
+        <item>Unread</item>
+        <item>Outbox</item>
+        <item>High priority</item>
+        <item>Medium priority</item>
+        <item>Low priority</item>
+        <item>Archive</item>
+        <item>Trash</item>
+    </string-array>
+
+    <string-array name="i18n_user_page_tabs">
+        <item>Profile</item>
+        <item>Gallery</item>
+        <item>Favorites</item>
+        <item>Journals</item>
+        <item>Watchs</item>
+        <item>Shouts</item>
+    </string-array>
+
+    <string-array name="i18n_view_page_tabs">
+        <item>Description</item>
+        <item>Info</item>
+        <item>Keywords</item>
+        <item>Comments</item>
+    </string-array>
+
+    <string-array name="i18n_message_center_tabs">
+        <item>Journals</item>
+        <item>Shouts</item>
+        <item>Comments</item>
+        <item>Favorites</item>
+        <item>Watches</item>
+    </string-array>
+
+    <string name="i18n_rating_dialog_title">Rate app</string>
+    <string name="i18n_rating_dialog_message">If you liked app, please give a review\n\nThanks for support!</string>
+    <string name="i18n_rating_dialog_ok">Sure!</string>
+    <string name="i18n_rating_dialog_cancel">Later</string>
+    <string name="i18n_rating_dialog_no">Already Done</string>
+
+    <string-array name="i18n_search_view_criteria_entry">
+        <item>relevancy</item>
+        <item>date</item>
+        <item>popularity</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_order_entry">
+        <item>ascending</item>
+        <item>descending</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_results_entry">
+        <item>24</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_range_entry">
+        <item>A Day</item>
+        <item>3 Days</item>
+        <item>A Week</item>
+        <item>A Month</item>
+        <item>All time</item>
+    </string-array>
+
+    <string name="i18n_search_view_sort_by_rating_title">Sort by Rating</string>
+    <string name="i18n_search_view_sort_by_type_title">Sort by Type</string>
+    <string name="i18n_search_view_match_title">Matching Keywords</string>
+
+    <string-array name="i18n_search_view_match_entry">
+        <item>All of the words</item>
+        <item>Any of the words</item>
+        <item>Extended</item>
+    </string-array>
+
+    <string-array name="i18n_submissions_ordered_titles">
+        <item>Oldest</item>
+        <item>Newest</item>
+    </string-array>
 </resources>
