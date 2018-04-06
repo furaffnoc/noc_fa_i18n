@@ -84,6 +84,7 @@
 
     <string name="i18n_main_settings_image_quality">Image Quality</string>
     <string name="i18n_main_settings_auto_download">Auto download image when faved</string>
+    <string name="i18n_main_settings_enable_animation">Enable animation</string>
 
     <string name="i18n_enabled_title">Enabled</string>
     <string name="i18n_timeout_title">Timeout</string>
@@ -243,4 +244,22 @@
         <item>Oldest</item>
         <item>Newest</item>
     </string-array>
+
+    <string name="i18n_toast_app_not_found_for_view">Not found application for view</string>
+    <string name="i18n_toast_comment_hide">Comment hide</string>
+    <string name="i18n_toast_comment_sending">Comment sending</string>
+    <string name="i18n_toast_journal_link_copied">Journal link copied</string>
+    <string name="i18n_toast_deleted_notifications">Deleted notifications</string>
+    <string name="i18n_toast_replay_send">Reply send</string>
+    <string name="i18n_toast_recipient_empty">Recipient empty</string>
+    <string name="i18n_toast_replay_not_send">Reply not send</string>
+    <string name="i18n_toast_note_send">Note send</string>
+    <string name="i18n_toast_note_not_send">Note not send</string>
+    <string name="i18n_toast_user_link_copied">User link copied</string>
+    <string name="i18n_toast_shout_sending">Shout sending</string>
+    <string name="i18n_toast_view_link_copied">View link copied</string>
+
+    <string name="i18n_snake_some_error">Some error</string>
+    <string name="i18n_snake_action_renew">Renew</string>
+    <string name="i18n_snake_picture_not_downloaded">Picture not downloaded</string>
 </resources>
