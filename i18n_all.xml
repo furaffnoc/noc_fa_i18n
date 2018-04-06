@@ -262,4 +262,6 @@
     <string name="i18n_snake_some_error">Some error</string>
     <string name="i18n_snake_action_renew">Renew</string>
     <string name="i18n_snake_picture_not_downloaded">Picture not downloaded</string>
+
+    <string name="i18n_privacy_policy">Privacy policy</string>
 </resources>
