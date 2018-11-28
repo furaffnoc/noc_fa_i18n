@@ -7,3 +7,4 @@
 
 ## Thanks for translate
 - Chinese: [naloder](https://github.com/naloder)
+- Korean [zenex1108](https://github.com/zenex1108)
