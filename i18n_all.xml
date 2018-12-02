@@ -87,6 +87,19 @@
 
     <string name="i18n_main_settings_image_quality">Image Quality</string>
     <string name="i18n_main_settings_auto_download">Auto download image when faved</string>
+    <string name="i18n_main_settings_download_title">Download path</string>
+    <string name="i18n_main_settings_download_mode">Download mode</string>
+
+    <string name="i18n_main_settings_download_mode_first">rating/author (download_dir/furaffinity/general/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_second">author/rating (download_dir/furaffinity/kojit/general/file)</string>
+    <string name="i18n_main_settings_download_mode_third">author (download_dir/furaffinity/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_fourth">rating ( download_dir/furaffinity/general/file)</string>
+    <string name="i18n_main_settings_download_mode_fifth">single (download_dir/furaffinity/file)</string>
+
+    <string name="i18n_main_settings_download_file_mode">File name</string>
+    <string name="i18n_main_settings_download_file_mode_first">Original</string>
+    <string name="i18n_main_settings_download_file_mode_second">Slug</string>
+
     <string name="i18n_main_settings_auto_close_menu_on_content_page">Menu auto closing when content faved</string>
     <string name="i18n_main_settings_enable_animation">Enable animation</string>
 
@@ -278,4 +291,20 @@
     <string name="i18n_privacy_policy">Privacy policy</string>
 
     <string name="i18n_share_link_using">Share link using</string>
+
+    <string name="i18n_background_service">Background service</string>
+    <string name="i18n_background_service_group">Running background service</string>
+    <string name="i18n_background_service_view_download">View Download</string>
+    <string name="i18n_background_service_submission_remove">Submission remove</string>
+    <string name="i18n_background_service_submission_favorite">Submission favorite</string>
+
+    <string name="i18n_notification_workers_view_id_template">View id: </string>
+    <string name="i18n_notification_workers_view_favorite_task_progress">Favorite task: progress</string>
+    <string name="i18n_notification_workers_view_favorite_task_fall">Favorite task: fall</string>
+    <string name="i18n_notification_workers_view_task_progress">View task: progress</string>
+    <string name="i18n_notification_workers_view_task_fall">View task: fall</string>
+    <string name="i18n_notification_workers_view_download_progress">Download task: progress</string>
+    <string name="i18n_notification_workers_view_download_fall">Download task: fall</string>
+    <string name="i18n_notification_workers_submission_remove_progress">Download task: progress</string>
+    <string name="i18n_notification_workers_submission_remove_fall">Download task: fall</string>
 </resources>
