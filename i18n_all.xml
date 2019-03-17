@@ -294,17 +294,21 @@
 
     <string name="i18n_background_service">Background service</string>
     <string name="i18n_background_service_group">Running background service</string>
+    <string name="i18n_background_service_check_notifications">Check notifications</string>
     <string name="i18n_background_service_view_download">View Download</string>
     <string name="i18n_background_service_submission_remove">Submission remove</string>
     <string name="i18n_background_service_submission_favorite">Submission favorite</string>
 
     <string name="i18n_notification_workers_view_id_template">View id: </string>
+    <string name="i18n_notification_workers_submission_view_favorite_task_queue">Submission task: queue</string>
     <string name="i18n_notification_workers_view_favorite_task_progress">Favorite task: progress</string>
     <string name="i18n_notification_workers_view_favorite_task_fall">Favorite task: fall</string>
     <string name="i18n_notification_workers_view_task_progress">View task: progress</string>
     <string name="i18n_notification_workers_view_task_fall">View task: fall</string>
     <string name="i18n_notification_workers_view_download_progress">Download task: progress</string>
     <string name="i18n_notification_workers_view_download_fall">Download task: fall</string>
-    <string name="i18n_notification_workers_submission_remove_progress">Download task: progress</string>
-    <string name="i18n_notification_workers_submission_remove_fall">Download task: fall</string>
+    <string name="i18n_notification_workers_submission_remove_progress">Remove task: progress</string>
+    <string name="i18n_notification_workers_submission_remove_fall">Remove task: fall</string>
+
+    <string name="i18n_dialog_network_state_gone">Internet is gone</string>
 </resources>
