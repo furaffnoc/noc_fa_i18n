@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i18n_app_name">Fur Affinity NOC</string>
+
+    <string name="i18n_share">Поделиться</string>
+    <string name="i18n_copy_link">Скопировать ссылку</string>
+    <string name="i18n_about">О приложении</string>
+    <string name="i18n_description_by">от</string>
+    <string name="i18n_none_u">Пусто</string>
+    <string name="i18n_none">Пусто</string>
+    <string name="i18n_rating_general">Общ.</string>
+    <string name="i18n_rating_mature">Огр.</string>
+    <string name="i18n_rating_adult">Взр.</string>
+    <string name="i18n_search">Поиск</string>
+    <string name="i18n_submissions">Submissions</string>
+    <string name="i18n_notifications">Уведомления</string>
+    <string name="i18n_notes">Записки</string>
+    <string name="i18n_settings">Настройки</string>
+    <string name="i18n_theme">Тема</string>
+    <string name="i18n_language">Язык</string>
+    <string name="i18n_themes">Темы</string>
+    <string name="i18n_nothing">Ничего</string>
+    <string name="i18n_comments">Комментарии</string>
+    <string name="i18n_favorites">Понравившиеся</string>
+    <string name="i18n_gallery">Галерея</string>
+    <string name="i18n_views">Просмотры</string>
+    <string name="i18n_see_all">Посмотреть всё</string>
+    <string name="i18n_comment_1">Комментировать…</string>
+    <string name="i18n_reply">Reply</string>
+    <string name="i18n_filter">Фильтр</string>
+    <string name="i18n_type">Type</string>
+    <string name="i18n_rating_general_full">General</string>
+    <string name="i18n_rating_mature_full">Mature</string>
+    <string name="i18n_rating_adult_full">Adult</string>
+    <string name="i18n_view">View</string>
+    <string name="i18n_column_count">Column count</string>
+    <string name="i18n_criteria">Критерии</string>
+    <string name="i18n_order">Порядок</string>
+    <string name="i18n_results">Results</string>
+    <string name="i18n_range">Range</string>
+    <string name="i18n_art">Арты</string>
+    <string name="i18n_music">Музыка</string>
+    <string name="i18n_flash">Флэш</string>
+    <string name="i18n_story">Истории</string>
+    <string name="i18n_photos">Фото</string>
+    <string name="i18n_poetry">Poetry</string>
+    <string name="i18n_ordered">Ordered</string>
+    <string name="i18n_archive">Archive</string>
+    <string name="i18n_mark_unread">Mark unread</string>
+    <string name="i18n_restore">Restore</string>
+    <string name="i18n_browser_open">Открыть в браузере</string>
+    <string name="i18n_compose">Compose</string>
+    <string name="i18n_download">Скачать</string>
+    <string name="i18n_see">See</string>
+    <string name="i18n_note_compose">Note Compose</string>
+    <string name="i18n_watchers">Подписчики</string>
+    <string name="i18n_popular">Popular</string>
+
+    <string name="i18n_about_dialog_more_info">Подробнее</string>
+    <string name="i18n_about_dialog_contact">Связаться</string>
+
+    <string name="i18n_content_not_found">Материал не загружен…</string>
+
+    <string name="i18n_drawer_nsfw">NSFW</string>
+    <string name="i18n_drawer_nsfw_on">Вкл</string>
+    <string name="i18n_drawer_nsfw_off">Выкл</string>
+
+    <string name="i18n_drawer_navigation_my_page">Моя страница</string>
+
+    <string name="i18n_drawer_navigation_title">Навигация</string>
+    <string name="i18n_browse">Лента</string>
+
+    <string name="i18n_drawer_settings_full_app">Полное приложение</string>
+
+    <string name="i18n_drawer_account_title">Аккаунт</string>
+    <string name="i18n_drawer_account_logout">Выйти</string>
+
+    <string name="i18n_title_login">Fur Affinity Login</string>
+
+    <string name="i18n_login_login">Имя/логин</string>
+    <string name="i18n_login_password">Пароль</string>
+    <string name="i18n_login_captcha_description">Капча</string>
+    <string name="i18n_login_verification">Verification</string>
+    <string name="i18n_login_log_in">Войти</string>
+    <string name="i18n_login_auth_error">Ошибка авторизации</string>
+    <string name="i18n_login_sign_in">Зарегистрироваться</string>
+    <string name="i18n_login_pass_reset">Сбросить пароль</string>
+
+    <string name="i18n_main_settings_image_quality">Качество изображения</string>
+    <string name="i18n_main_settings_auto_download">Авто-скачивание при добавлении в понравившееся</string>
+    <string name="i18n_main_settings_download_title">Путь закачки</string>
+    <string name="i18n_main_settings_download_mode">Download mode</string>
+
+    <string name="i18n_main_settings_download_mode_first">rating/author (download_dir/furaffinity/general/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_second">author/rating (download_dir/furaffinity/kojit/general/file)</string>
+    <string name="i18n_main_settings_download_mode_third">author (download_dir/furaffinity/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_fourth">rating ( download_dir/furaffinity/general/file)</string>
+    <string name="i18n_main_settings_download_mode_fifth">single (download_dir/furaffinity/file)</string>
+
+    <string name="i18n_main_settings_download_file_mode">Имя файла</string>
+    <string name="i18n_main_settings_download_file_mode_first">Оригинал</string>
+    <string name="i18n_main_settings_download_file_mode_second">Slug</string>
+
+    <string name="i18n_main_settings_auto_close_menu_on_content_page">Menu auto closing when content faved</string>
+    <string name="i18n_main_settings_enable_animation">Включить анимацию</string>
+
+    <string name="i18n_enabled_title">Включено</string>
+    <string name="i18n_timeout_title">Timeout</string>
+    <string name="i18n_option_title">Опции</string>
+    <string name="i18n_sound_title">Звук</string>
+    <string name="i18n_vibration_title">Вибрация</string>
+    <string name="i18n_content_title">Материал</string>
+    <string name="i18n_journals_title">Journals</string>
+    <string name="i18n_watched_title">Подписаны</string>
+
+    <string name="i18n_message_center_comments_item_title_pre">has replied to</string>
+    <string name="i18n_message_center_favorited">favorited</string>
+    <string name="i18n_message_center_posted_by">posted by</string>
+
+    <string name="i18n_note_post">Post</string>
+    <string name="i18n_note_from">from</string>
+    <string name="i18n_note_recipient_1">Recipient:</string>
+    <string name="i18n_note_subject_1">Subject:</string>
+    <string name="i18n_note_reply_1">Reply:</string>
+
+    <string name="i18n_notes_not_found">Записки не найдены</string>
+
+    <string name="i18n_search_bar_help">Помощь</string>
+
+    <string name="i18n_search_help_ps_title">Power Search</string>
+    <string name="i18n_search_help_ps_text">Search understands basic boolean operators:\n\u25CF AND: hello &amp; world\n\u25CF OR : hello | world\n\u25CF NOT: hello -world -or- hello !world\n\u25CF Grouping: (hello world)\n\nExample: ( cat -dog ) | ( cat -mouse)</string>
+
+    <string name="i18n_search_help_cap_title">Capabilities</string>
+    <string name="i18n_search_help_cap_text">\u25CF Field searching: @title hello @message world\n\u25CF Phrase searching: \'hello world\'\n\u25CF Word proximity searching: \'hello world\'~10\n\u25CF Quorum matching: \'the world is a wonderful place\'/3\n\nExample: \'hello world\' @title \'example program\'~5 @message python -(php|perl)</string>
+
+    <string name="i18n_search_help_af_title">Available Fields</string>
+    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower (artist name as it appears in their userpage URL)\n\u25CF \@keywords\n\nExample: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
+
+    <string name="i18n_submissions_not_found">There are no imaged submissions to list</string>
+
+    <string name="i18n_submissions_description_remove">Удалить</string>
+
+    <string name="i18n_view_rating">Рейтинг</string>
+    <string name="i18n_view_posted">Posted</string>
+    <string name="i18n_view_category">Категория</string>
+    <string name="i18n_view_period">Period</string>
+    <string name="i18n_view_per_page">Per Page</string>
+    <string name="i18n_view_species">Виды</string>
+    <string name="i18n_view_gender">Пол</string>
+
+    <string name="i18n_view_comments_edit_hide_comment">Спрятать</string>
+
+    <string name="i18n_user_recent_watched">Recent watched</string>
+    <string name="i18n_user_recent_watchers">Recent watchers</string>
+
+    <string name="i18n_count">Количество</string>
+    <string name="i18n_delete">Удалить</string>
+    <string name="i18n_trash">Trash</string>
+    <string name="i18n_watch">Подписаться</string>
+    <string name="i18n_un_watch">Отписаться</string>
+    <string name="i18n_fav">Добавить в понравившееся</string>
+    <string name="i18n_un_fav">Убрать из понравившихся</string>
+
+    <string name="i18n_notes_folders">папки</string>
+    <string name="i18n_notes_high">Высокое</string>
+    <string name="i18n_notes_medium">Среднее</string>
+    <string name="i18n_notes_low">Низкое</string>
+
+    <string-array name="i18n_settings_pref_image_quality">
+        <item>Очень высокое</item>
+        <item>Высокое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_themes">
+        <item>Светлая</item>
+        <item>Тёмная</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_languages">
+        <item>Английский</item>
+        <item>Китайский</item>
+        <item>Корейский</item>
+    </string-array>
+
+    <string-array name="i18n_settings_notifications_timeout">
+        <item>6 часов</item>
+        <item>4 часа</item>
+        <item>2 часа</item>
+        <item>1 час</item>
+        <item>30 минут</item>
+        <item>10 минут</item>
+        <item>5 минут</item>
+        <item>1 минуту</item>
+    </string-array>
+
+    <string-array name="i18n_notes_directories">
+        <item>Входящие</item>
+        <item>Непрочитанные</item>
+        <item>Отправленные</item>
+        <item>Высокий приоритет</item>
+        <item>Средний приоритет</item>
+        <item>Низкий приоритет</item>
+        <item>Архив</item>
+        <item>Корзина</item>
+    </string-array>
+
+    <string-array name="i18n_user_page_tabs">
+        <item>Профиль</item>
+        <item>Галлерея</item>
+        <item>Понравившееся</item>
+        <item>Journals</item>
+        <item>Комментарии</item>
+        <item>Комментарии</item>
+    </string-array>
+
+    <string-array name="i18n_view_page_tabs">
+        <item>Описание</item>
+        <item>Инфо</item>
+        <item>Хэштеги</item>
+        <item>Комментарии</item>
+    </string-array>
+
+    <string-array name="i18n_message_center_tabs">
+        <item>Journals</item>
+        <item>Комментарий профиля</item>
+        <item>Комментарии</item>
+        <item>Понравилось</item>
+        <item>Подписались</item>
+    </string-array>
+
+    <string name="i18n_rating_dialog_title">Оцените приложение</string>
+    <string name="i18n_rating_dialog_message">Если вам нравится приложение, оставьте отзыв!\n\nСпасибо за поддержку!</string>
+    <string name="i18n_rating_dialog_ok">Конечно!</string>
+    <string name="i18n_rating_dialog_cancel">Позже</string>
+    <string name="i18n_rating_dialog_no">Уже</string>
+
+    <string-array name="i18n_search_view_criteria_entry">
+        <item>Актуальность</item>
+        <item>Дата</item>
+        <item>Популярность</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_order_entry">
+        <item>По возрастанию</item>
+        <item>По убыванию</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_results_entry">
+        <item>24</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_range_entry">
+        <item>День</item>
+        <item>3 дня</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Всё время</item>
+    </string-array>
+
+    <string name="i18n_search_view_sort_by_rating_title">Сортировать по рейтингу</string>
+    <string name="i18n_search_view_sort_by_type_title">Сортировать по типу</string>
+    <string name="i18n_search_view_match_title">Matching Keywords</string>
+
+    <string-array name="i18n_search_view_match_entry">
+        <item>По всем словам</item>
+        <item>По любому из слов</item>
+        <item>Расширенный</item>
+    </string-array>
+
+    <string-array name="i18n_submissions_ordered_titles">
+        <item>Старое</item>
+        <item>Новое</item>
+    </string-array>
+
+    <string name="i18n_toast_app_not_found_for_view">Not found application for view</string>
+    <string name="i18n_toast_comment_hide">Комментарий скрыт</string>
+    <string name="i18n_toast_comment_sending">Отправка комментария</string>
+    <string name="i18n_toast_journal_link_copied">Ссылка на журнал скопирована</string>
+    <string name="i18n_toast_deleted_notifications">Deleted notifications</string>
+    <string name="i18n_toast_replay_send">Reply send</string>
+    <string name="i18n_toast_recipient_empty">Recipient empty</string>
+    <string name="i18n_toast_replay_not_send">Reply not send</string>
+    <string name="i18n_toast_note_send">Записка отправлена</string>
+    <string name="i18n_toast_note_not_send">Записка не отправлена</string>
+    <string name="i18n_toast_user_link_copied">Ссылка на пользователя скопирована</string>
+    <string name="i18n_toast_shout_empty">Shout empty</string>
+    <string name="i18n_toast_shout_sending">Отправка комментария</string>
+    <string name="i18n_toast_view_link_copied">Ссылка на просмотр скопирована</string>
+
+    <string name="i18n_snake_some_error">Некоторые ошибки</string>
+    <string name="i18n_snake_action_renew">Обновить</string>
+    <string name="i18n_snake_picture_not_downloaded">Изображение не скачано</string>
+
+    <string name="i18n_privacy_policy">Политика конфиденциальности</string>
+
+    <string name="i18n_share_link_using">Share link using</string>
+
+    <string name="i18n_background_service">Background service</string>
+    <string name="i18n_background_service_group">Running background service</string>
+    <string name="i18n_background_service_check_notifications">Проверка уведомлений</string>
+    <string name="i18n_background_service_view_download">Посмотреть файл</string>
+    <string name="i18n_background_service_submission_remove">Submission remove</string>
+    <string name="i18n_background_service_submission_favorite">Submission favorite</string>
+
+    <string name="i18n_notification_workers_view_id_template">View id: </string>
+    <string name="i18n_notification_workers_submission_view_favorite_task_queue">Submission task: queue</string>
+    <string name="i18n_notification_workers_view_favorite_task_progress">Favorite task: progress</string>
+    <string name="i18n_notification_workers_view_favorite_task_fall">Favorite task: fall</string>
+    <string name="i18n_notification_workers_view_task_progress">View task: progress</string>
+    <string name="i18n_notification_workers_view_task_fall">View task: fall</string>
+    <string name="i18n_notification_workers_view_download_progress">Download task: progress</string>
+    <string name="i18n_notification_workers_view_download_fall">Download task: fall</string>
+    <string name="i18n_notification_workers_submission_remove_progress">Remove task: progress</string>
+    <string name="i18n_notification_workers_submission_remove_fall">Remove task: fall</string>
+
+    <string name="i18n_dialog_network_state_gone">Интернет пропал :(</string>
+    <string name="i18n_image_cant_shown">Изображение не может быть показано</string>
+</resources>
