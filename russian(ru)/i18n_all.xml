@@ -182,6 +182,7 @@
         <item>Английский</item>
         <item>Китайский</item>
         <item>Корейский</item>
+        <item>Russian</item>
     </string-array>
 
     <string-array name="i18n_settings_notifications_timeout">
