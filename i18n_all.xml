@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="i18n_app_name">Fur Affinity NOC</string>
-
     <string name="i18n_share">Share</string>
     <string name="i18n_copy_link">Copy link</string>
     <string name="i18n_about">About</string>
@@ -49,12 +47,35 @@
     <string name="i18n_mark_unread">Mark unread</string>
     <string name="i18n_restore">Restore</string>
     <string name="i18n_browser_open">Browser open</string>
+    <string name="i18n_complain">Complain</string>
     <string name="i18n_compose">Compose</string>
     <string name="i18n_download">Download</string>
     <string name="i18n_see">See</string>
     <string name="i18n_note_compose">Note Compose</string>
     <string name="i18n_watchers">Watchers</string>
+    <string name="i18n_try_for">Try for</string>
     <string name="i18n_popular">Popular</string>
+    <string name="i18n_premium">Premium</string>
+    <string name="i18n_subscribe">Subscribe</string>
+    <string name="i18n_subscription">Subscription</string>
+    <string name="i18n_subscribe_title">Subscription: Advanced Features</string>
+    <string name="i18n_subscribe_body_1">Access to the popular section</string>
+    <string name="i18n_subscribe_body_1_2">Popular section contain most liked content among users</string>
+    <string name="i18n_subscribe_body_2">Access to the swipe actions</string>
+    <string name="i18n_subscribe_body_2_1">Quickly and conveniently interact with content, for example, add to favorites or remove from submissions</string>
+    <string name="i18n_free_trial_text">Free trial one week</string>
+    <string name="i18n_subscribe_period">/ mo</string>
+    <string name="i18n_subscribe_manage">Manage subscribe</string>
+    <string name="i18n_subscribe_description_explain">If you don\'t cancel before the trial ends, you will be automatically charged %1$s each month until you cancel</string>
+    <string name="i18n_subscribe_part1">%1$s billed monthly</string>
+    <string name="i18n_subscribe_part2">Cancel anytime</string>
+    <string name="i18n_subscribe_trial_part1">Monthly subscription for</string>
+    <string name="i18n_subscribe_trial_part2">%1$s/month after trial ends</string>
+    <string name="i18n_subscribe_trial_pre_part1">7 DAY</string>
+    <string name="i18n_subscribe_trial_pre_part2">FREE TRIAL</string>
+
+    <string name="i18n_art_on_background">Art on background -</string>
+    <string name="i18n_flash_lioness">\@Flash_Lioness</string>
 
     <string name="i18n_about_dialog_more_info">More info</string>
     <string name="i18n_about_dialog_contact">Contact</string>
@@ -71,6 +92,8 @@
     <string name="i18n_browse">Browse</string>
 
     <string name="i18n_drawer_settings_full_app">Full app</string>
+
+    <string name="i18n_billing_sub_advanced">Premium Subscription</string>
 
     <string name="i18n_drawer_account_title">Account</string>
     <string name="i18n_drawer_account_logout">Logout</string>
@@ -109,6 +132,7 @@
     <string name="i18n_option_title">Options</string>
     <string name="i18n_sound_title">Sound</string>
     <string name="i18n_vibration_title">Vibration</string>
+    <string name="i18n_open_settings">Open settings</string>
     <string name="i18n_content_title">Content</string>
     <string name="i18n_journals_title">Journals</string>
     <string name="i18n_watched_title">Watched</string>
@@ -211,7 +235,7 @@
         <item>Gallery</item>
         <item>Favorites</item>
         <item>Journals</item>
-        <item>Watchs</item>
+        <item>Watched</item>
         <item>Shouts</item>
     </string-array>
 
@@ -277,6 +301,8 @@
     </string-array>
 
     <string name="i18n_toast_app_not_found_for_view">Not found application for view</string>
+    <string name="i18n_toast_app_not_found_browser">Not found application for browsing</string>
+    <string name="i18n_toast_app_not_found_sharing">Not found application for sharing</string>
     <string name="i18n_toast_comment_hide">Comment hide</string>
     <string name="i18n_toast_comment_sending">Comment sending</string>
     <string name="i18n_toast_journal_link_copied">Journal link copied</string>
@@ -302,6 +328,7 @@
     <string name="i18n_background_service">Background service</string>
     <string name="i18n_background_service_group">Running background service</string>
     <string name="i18n_background_service_check_notifications">Check notifications</string>
+    <string name="i18n_background_service_handle_actions">Handle actions</string>
     <string name="i18n_background_service_view_download">View Download</string>
     <string name="i18n_background_service_submission_remove">Submission remove</string>
     <string name="i18n_background_service_submission_favorite">Submission favorite</string>
@@ -310,6 +337,8 @@
     <string name="i18n_notification_workers_submission_view_favorite_task_queue">Submission task: queue</string>
     <string name="i18n_notification_workers_view_favorite_task_progress">Favorite task: progress</string>
     <string name="i18n_notification_workers_view_favorite_task_fall">Favorite task: fall</string>
+    <string name="i18n_notification_workers_un_view_add_progress">Not interested task: progress</string>
+    <string name="i18n_notification_workers_un_view_add_fall">Not interested task: fall</string>
     <string name="i18n_notification_workers_view_task_progress">View task: progress</string>
     <string name="i18n_notification_workers_view_task_fall">View task: fall</string>
     <string name="i18n_notification_workers_view_download_progress">Download task: progress</string>
@@ -318,5 +347,8 @@
     <string name="i18n_notification_workers_submission_remove_fall">Remove task: fall</string>
 
     <string name="i18n_dialog_network_state_gone">Internet is gone</string>
+    <string name="i18n_dialog_anti_ddos_is_failed">The application is temporarily not working</string>
     <string name="i18n_image_cant_shown">Image can\'t be shown</string>
+
+    <string name="i18n_view_activity_not_found">Not found program to open url</string>
 </resources>
