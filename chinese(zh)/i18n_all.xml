@@ -106,7 +106,7 @@
     <string name="i18n_login_verification">验证</string>
     <string name="i18n_login_log_in">登录</string>
     <string name="i18n_login_auth_error">授权错误</string>
-    <string name="i18n_login_sign_in">登录</string>
+    <string name="i18n_login_sign_in">注册</string>
     <string name="i18n_login_pass_reset">密码重置</string>
 
     <string name="i18n_main_settings_image_quality">图片质量</string>
