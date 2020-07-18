@@ -160,7 +160,7 @@
     <string name="i18n_search_help_af_title">可用字段</string>
     <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower （在用户页面URL中显示的艺术家名称）\n\u25CF \@keywords\n\n例如： fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
 
-    <string name="i18n_submissions_not_found">没有找到图片</string>
+    <string name="i18n_submissions_not_found">没有找到图片提交列表</string>
 
     <string name="i18n_submissions_description_remove">移除</string>
 
