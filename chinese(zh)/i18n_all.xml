@@ -83,8 +83,8 @@
     <string name="i18n_content_not_found">内容没有加载……</string>
 
     <string name="i18n_drawer_nsfw">NSFW</string>
-    <string name="i18n_drawer_nsfw_on">On</string>
-    <string name="i18n_drawer_nsfw_off">Off</string>
+    <string name="i18n_drawer_nsfw_on">开</string>
+    <string name="i18n_drawer_nsfw_off">关</string>
 
     <string name="i18n_drawer_navigation_my_page">个人页面</string>
 
@@ -103,7 +103,7 @@
     <string name="i18n_login_login">登录</string>
     <string name="i18n_login_password">密码</string>
     <string name="i18n_login_captcha_description">验证码</string>
-    <string name="i18n_login_verification">确认</string>
+    <string name="i18n_login_verification">验证</string>
     <string name="i18n_login_log_in">登录</string>
     <string name="i18n_login_auth_error">授权错误</string>
     <string name="i18n_login_sign_in">登录</string>
@@ -160,7 +160,7 @@
     <string name="i18n_search_help_af_title">可用字段</string>
     <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower （在用户页面URL中显示的艺术家名称）\n\u25CF \@keywords\n\n例如： fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
 
-    <string name="i18n_submissions_not_found">没有图片提交名单</string>
+    <string name="i18n_submissions_not_found">没有找到图片</string>
 
     <string name="i18n_submissions_description_remove">移除</string>
 
@@ -191,7 +191,7 @@
     <string name="i18n_notes_low">低</string>
 
     <string-array name="i18n_settings_pref_image_quality">
-        <item>非常高</item>
+        <item>极高</item>
         <item>高</item>
         <item>中</item>
         <item>低</item>
@@ -209,14 +209,14 @@
     </string-array>
 
     <string-array name="i18n_settings_notifications_timeout">
-        <item>6 小时</item>
-        <item>4 小时</item>
-        <item>2 小时</item>
-        <item>1 小时</item>
-        <item>30 分钟</item>
-        <item>10 分钟</item>
-        <item>5 分钟</item>
-        <item>1 分钟</item>
+        <item>6小时</item>
+        <item>4小时</item>
+        <item>2小时</item>
+        <item>1小时</item>
+        <item>30分钟</item>
+        <item>10分钟</item>
+        <item>5分钟</item>
+        <item>1分钟</item>
     </string-array>
 
     <string-array name="i18n_notes_directories">
