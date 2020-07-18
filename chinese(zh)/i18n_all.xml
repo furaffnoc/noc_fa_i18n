@@ -3,14 +3,14 @@
     <string name="i18n_share">分享</string>
     <string name="i18n_copy_link">复制链接</string>
     <string name="i18n_about">关于</string>
-    <string name="i18n_description_by">by</string>
+    <string name="i18n_description_by">由</string>
     <string name="i18n_none_u">无</string>
     <string name="i18n_none">无</string>
     <string name="i18n_rating_general">一般</string>
     <string name="i18n_rating_mature">成熟</string>
     <string name="i18n_rating_adult">成人</string>
     <string name="i18n_search">搜索</string>
-    <string name="i18n_submissions">投稿</string>
+    <string name="i18n_submissions">提交</string>
     <string name="i18n_notifications">通知</string>
     <string name="i18n_notes">便条</string>
     <string name="i18n_settings">设置</string>
