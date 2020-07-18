@@ -3,106 +3,352 @@
     <string name="i18n_share">分享</string>
     <string name="i18n_copy_link">复制链接</string>
     <string name="i18n_about">关于</string>
-    <string name="i18n_description_by">由</string>
+    <string name="i18n_description_by">by</string>
     <string name="i18n_none_u">无</string>
     <string name="i18n_none">无</string>
-    <string name="i18n_rating_general">好</string>
+    <string name="i18n_rating_general">一般</string>
+    <string name="i18n_rating_mature">成熟</string>
+    <string name="i18n_rating_adult">成人</string>
     <string name="i18n_search">搜索</string>
-    <string name="i18n_submissions">提交</string>
-    <string name="i18n_notifications">消息</string>
-    <string name="i18n_notes">记录</string>
+    <string name="i18n_submissions">投稿</string>
+    <string name="i18n_notifications">通知</string>
+    <string name="i18n_notes">便条</string>
     <string name="i18n_settings">设置</string>
-    <string name="i18n_nothing">什么东西都没有</string>
-    <string name="i18n_comments">注释</string>
-    <string name="i18n_favorites">喜爱的</string>
-    <string name="i18n_views">视图</string>
-    <string name="i18n_see_all">查看所有</string>
-    <string name="i18n_comment_1">评论…</string>
+    <string name="i18n_theme">主题</string>
+    <string name="i18n_language">语言</string>
+    <string name="i18n_themes">主题</string>
+    <string name="i18n_nothing">没有</string>
+    <string name="i18n_comments">评论</string>
+    <string name="i18n_favorites">喜欢</string>
+    <string name="i18n_gallery">相簿</string>
+    <string name="i18n_views">观看次数</string>
+    <string name="i18n_see_all">查看全部</string>
+    <string name="i18n_comment_1">评论……</string>
     <string name="i18n_reply">回复</string>
+    <string name="i18n_filter">过滤</string>
+    <string name="i18n_type">类型</string>
+    <string name="i18n_rating_general_full">一般</string>
+    <string name="i18n_rating_mature_full">成熟</string>
+    <string name="i18n_rating_adult_full">成人</string>
+    <string name="i18n_view">视图</string>
+    <string name="i18n_column_count">列数</string>
+    <string name="i18n_criteria">标准</string>
+    <string name="i18n_order">排列顺序</string>
+    <string name="i18n_results">结果</string>
+    <string name="i18n_range">范围</string>
+    <string name="i18n_art">艺术</string>
+    <string name="i18n_music">音乐</string>
+    <string name="i18n_flash">动画</string>
+    <string name="i18n_story">故事</string>
+    <string name="i18n_photos">照片</string>
+    <string name="i18n_poetry">诗歌</string>
+    <string name="i18n_ordered">排列顺序</string>
+    <string name="i18n_archive">档案</string>
+    <string name="i18n_mark_unread">标记未读</string>
+    <string name="i18n_restore">恢复</string>
+    <string name="i18n_browser_open">用浏览器打开</string>
+    <string name="i18n_complain">投诉</string>
+    <string name="i18n_compose">组成</string>
+    <string name="i18n_download">下载</string>
+    <string name="i18n_see">查看</string>
+    <string name="i18n_note_compose">便条组成</string>
+    <string name="i18n_watchers">关注者</string>
+    <string name="i18n_try_for">尝试</string>
+    <string name="i18n_popular">人气</string>
+    <string name="i18n_premium">Premium</string>
+    <string name="i18n_subscribe">订阅</string>
+    <string name="i18n_subscription">订阅</string>
+    <string name="i18n_subscribe_title">订阅：高级功能</string>
+    <string name="i18n_subscribe_body_1">解锁人气区</string>
+    <string name="i18n_subscribe_body_1_2">人气区里有用户最喜欢的内容</string>
+    <string name="i18n_subscribe_body_2">解锁滑动操作</string>
+    <string name="i18n_subscribe_body_2_1">快捷方便地内容交互，例如，添加喜欢或删除提交</string>
+    <string name="i18n_free_trial_text">免费试用一周</string>
+    <string name="i18n_subscribe_period">/ mo</string>
+    <string name="i18n_subscribe_manage">管理订阅</string>
+    <string name="i18n_subscribe_description_explain">如果您在试用结束前没有取消订阅，您将被自动收取每月%1$s的费用，直到您取消为止</string>
+    <string name="i18n_subscribe_part1">%1$s月费</string>
+    <string name="i18n_subscribe_part2">随时取消</string>
+    <string name="i18n_subscribe_trial_part1">按月订阅</string>
+    <string name="i18n_subscribe_trial_part2">试用结束后%1$s/月</string>
+    <string name="i18n_subscribe_trial_pre_part1">7天</string>
+    <string name="i18n_subscribe_trial_pre_part2">免费试用</string>
 
-    <string name="i18n_about_dialog_more_info">更多信息</string>
+    <string name="i18n_art_on_background">艺术背景 -</string>
+    <string name="i18n_flash_lioness">\@Flash_Lioness</string>
+
+    <string name="i18n_about_dialog_more_info">详细信息</string>
     <string name="i18n_about_dialog_contact">联系</string>
 
-    <string name="i18n_browse_not_found">浏览页面无法加载…</string>
+    <string name="i18n_content_not_found">内容没有加载……</string>
 
-    <string name="i18n_drawer_nsfw">R18</string>
-    <string name="i18n_drawer_nsfw_on">开启</string>
-    <string name="i18n_drawer_nsfw_off">关闭</string>
+    <string name="i18n_drawer_nsfw">NSFW</string>
+    <string name="i18n_drawer_nsfw_on">On</string>
+    <string name="i18n_drawer_nsfw_off">Off</string>
 
-    <string name="i18n_drawer_navigation_my_page">我的主页</string>
+    <string name="i18n_drawer_navigation_my_page">个人页面</string>
 
     <string name="i18n_drawer_navigation_title">导航</string>
-    <string name="i18n_drawer_navigation_browse">浏览</string>
+    <string name="i18n_browse">浏览</string>
 
-    <string name="i18n_drawer_settings_full_app">完整版app</string>
+    <string name="i18n_drawer_settings_full_app">完整应用</string>
 
-    <string name="i18n_drawer_account_title">账户</string>
-    <string name="i18n_drawer_account_logout">登出</string>
+    <string name="i18n_billing_sub_advanced">Premium 订阅</string>
+
+    <string name="i18n_drawer_account_title">账号</string>
+    <string name="i18n_drawer_account_logout">注销</string>
+
+    <string name="i18n_title_login">Fur Affinity 登录</string>
 
     <string name="i18n_login_login">登录</string>
     <string name="i18n_login_password">密码</string>
     <string name="i18n_login_captcha_description">验证码</string>
-    <string name="i18n_login_verification">验证</string>
-    <string name="i18n_login_log_in">注册</string>
+    <string name="i18n_login_verification">确认</string>
+    <string name="i18n_login_log_in">登录</string>
     <string name="i18n_login_auth_error">授权错误</string>
-    <string name="i18n_login_sign_in">签到</string>
+    <string name="i18n_login_sign_in">登录</string>
     <string name="i18n_login_pass_reset">密码重置</string>
 
-    <string name="i18n_main_settings_image_quality">图像质量</string>
-    <string name="i18n_main_settings_auto_download">当喜欢时自动下载图像</string>
+    <string name="i18n_main_settings_image_quality">图片质量</string>
+    <string name="i18n_main_settings_auto_download">点赞时自动下载图片</string>
+    <string name="i18n_main_settings_download_title">下载路径</string>
+    <string name="i18n_main_settings_download_mode">下载模式</string>
 
-    <string name="i18n_main_notifications_enabled_title">启用</string>
-    <string name="i18n_main_notifications_timeout_title">超时</string>
-    <string name="i18n_main_notifications_option_title">选项</string>
-    <string name="i18n_main_notifications_option_sound_title">声音</string>
-    <string name="i18n_main_notifications_option_vibration_title">振动</string>
-    <string name="i18n_main_notifications_content_title">内容</string>
-    <string name="i18n_main_notifications_content_journals_title">报告</string>
-    <string name="i18n_main_notifications_content_watched_title">已关注的</string>
+    <string name="i18n_main_settings_download_mode_first">评级/作者 (download_dir/furaffinity/general/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_second">作者/评级 (download_dir/furaffinity/kojit/general/file)</string>
+    <string name="i18n_main_settings_download_mode_third">作者 (download_dir/furaffinity/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_fourth">评级 ( download_dir/furaffinity/general/file)</string>
+    <string name="i18n_main_settings_download_mode_fifth">单独 (download_dir/furaffinity/file)</string>
 
-    <string name="i18n_message_center_comments_item_title_pre">已回复</string>
-    <string name="i18n_message_center_favorited">喜爱的</string>
-    <string name="i18n_message_center_posted_by">发布来自</string>
+    <string name="i18n_main_settings_download_file_mode">文件名</string>
+    <string name="i18n_main_settings_download_file_mode_first">原始</string>
+    <string name="i18n_main_settings_download_file_mode_second">别名</string>
 
-    <string name="i18n_note_post">发布</string>
-    <string name="i18n_note_from">从</string>
-    <string name="i18n_note_recipient_1">接收者:</string>
-    <string name="i18n_note_subject_1">主题:</string>
-    <string name="i18n_note_reply_1">回复:</string>
+    <string name="i18n_main_settings_auto_close_menu_on_content_page">点击喜欢后菜单自动关闭</string>
+    <string name="i18n_main_settings_enable_animation">启用动画</string>
 
-    <string name="i18n_notes_not_found">未能找到笔记</string>
+    <string name="i18n_enabled_title">启用</string>
+    <string name="i18n_timeout_title">超时</string>
+    <string name="i18n_option_title">选项</string>
+    <string name="i18n_sound_title">声音</string>
+    <string name="i18n_vibration_title">振动</string>
+    <string name="i18n_open_settings">打开设置</string>
+    <string name="i18n_content_title">内容</string>
+    <string name="i18n_journals_title">期刊</string>
+    <string name="i18n_watched_title">关注</string>
+
+    <string name="i18n_message_center_comments_item_title_pre">已回复给</string>
+    <string name="i18n_message_center_favorited">喜欢</string>
+    <string name="i18n_message_center_posted_by">发表由</string>
+
+    <string name="i18n_note_post">帖子</string>
+    <string name="i18n_note_from">来自</string>
+    <string name="i18n_note_recipient_1">接收者：</string>
+    <string name="i18n_note_subject_1">主题：</string>
+    <string name="i18n_note_reply_1">回复：</string>
+
+    <string name="i18n_notes_not_found">没有找到便条</string>
 
     <string name="i18n_search_bar_help">帮助</string>
 
-    <string name="i18n_search_help_ps_title">权重搜索</string>
-    <string name="i18n_search_help_ps_text">可被搜索的基础布尔值:\n\u25CF 和: hello &amp; world\n\u25CF 或 : hello | world\n\u25CF 无法使用: hello -world -or- hello !world\n\u25CF 分组: (hello world)\n\n例如: ( cat -dog ) | ( cat -mouse)</string>
+    <string name="i18n_search_help_ps_title">高级搜索</string>
+    <string name="i18n_search_help_ps_text">搜索理解基本的布尔运算符：\n\u25CF 与： hello &amp; world\n\u25CF 或： hello | world\n\u25CF 非： hello -world -or- hello !world\n\u25CF 分组： (hello world)\n\n例如： ( cat -dog ) | ( cat -mouse)</string>
 
     <string name="i18n_search_help_cap_title">功能</string>
-    <string name="i18n_search_help_cap_text">\u25CF 区域搜索: @title hello @message world\n\u25CF 短语搜索: \'hello world\'\n\u25CF 相近语段搜索: \'hello world\'~10\n\u25CF 法定匹配: \'the world is a wonderful place\'/3\n\n例如: \'hello world\' @title \'示例程序\'~5 @message python -(php|perl)</string>
+    <string name="i18n_search_help_cap_text">\u25CF 字段搜索： @title hello @message world\n\u25CF 短语搜索： \'hello world\'\n\u25CF 临近词模糊搜索： \'hello world\'~10\n\u25CF 大多数匹配： \'the world is a wonderful place\'/3\n\n例如： \'hello world\' @title \'example program\'~5 @message python -(php|perl)</string>
 
     <string name="i18n_search_help_af_title">可用字段</string>
-    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower (artist name as it appears in their userpage URL)\n\u25CF \@keywords\n\n例如: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
+    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower （在用户页面URL中显示的艺术家名称）\n\u25CF \@keywords\n\n例如： fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
 
-    <string name="i18n_submissions_not_found">在列表里没有图像提交</string>
+    <string name="i18n_submissions_not_found">没有图片提交名单</string>
 
     <string name="i18n_submissions_description_remove">移除</string>
 
-    <string name="i18n_view_rating">评分</string>
-    <string name="i18n_view_posted">发布的</string>
-    <string name="i18n_view_category">类别</string>
-    <string name="i18n_view_species">种类</string>
+    <string name="i18n_view_rating">评级</string>
+    <string name="i18n_view_posted">帖子</string>
+    <string name="i18n_view_category">种类</string>
+    <string name="i18n_view_period">周期</string>
+    <string name="i18n_view_per_page">每页</string>
+    <string name="i18n_view_species">物种</string>
     <string name="i18n_view_gender">性别</string>
 
     <string name="i18n_view_comments_edit_hide_comment">隐藏</string>
 
-    <string name="i18n_user_recent_watched">最近访问</string>
-    <string name="i18n_user_recent_watchers">最近的访客</string>
+    <string name="i18n_user_recent_watched">最近看过</string>
+    <string name="i18n_user_recent_watchers">最近关注</string>
 
-    <string name="i18n_message_center_count">计数</string>
-    <string name="i18n_message_center_delete">删除</string>
+    <string name="i18n_count">计数</string>
+    <string name="i18n_delete">删除</string>
+    <string name="i18n_trash">垃圾箱</string>
+    <string name="i18n_watch">+关注</string>
+    <string name="i18n_un_watch">-关注</string>
+    <string name="i18n_fav">添加喜欢</string>
+    <string name="i18n_un_fav">移除喜欢</string>
 
     <string name="i18n_notes_folders">文件夹</string>
-    <string name="i18n_notes_high">高清</string>
-    <string name="i18n_notes_medium">中等</string>
-    <string name="i18n_notes_low">标清</string>
+    <string name="i18n_notes_high">高</string>
+    <string name="i18n_notes_medium">中</string>
+    <string name="i18n_notes_low">低</string>
+
+    <string-array name="i18n_settings_pref_image_quality">
+        <item>非常高</item>
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_themes">
+        <item>亮色</item>
+        <item>暗色</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_languages">
+        <item>英语</item>
+        <item>中文</item>
+        <item>韩文</item>
+    </string-array>
+
+    <string-array name="i18n_settings_notifications_timeout">
+        <item>6 小时</item>
+        <item>4 小时</item>
+        <item>2 小时</item>
+        <item>1 小时</item>
+        <item>30 分钟</item>
+        <item>10 分钟</item>
+        <item>5 分钟</item>
+        <item>1 分钟</item>
+    </string-array>
+
+    <string-array name="i18n_notes_directories">
+        <item>收件箱</item>
+        <item>未读</item>
+        <item>发件箱</item>
+        <item>高优先级</item>
+        <item>中优先级</item>
+        <item>低优先级</item>
+        <item>档案</item>
+        <item>垃圾箱</item>
+    </string-array>
+
+    <string-array name="i18n_user_page_tabs">
+        <item>简介</item>
+        <item>相簿</item>
+        <item>喜欢簿</item>
+        <item>期刊</item>
+        <item>关注</item>
+        <item>呼喊</item>
+    </string-array>
+
+    <string-array name="i18n_view_page_tabs">
+        <item>说明</item>
+        <item>信息</item>
+        <item>关键词</item>
+        <item>评论</item>
+    </string-array>
+
+    <string-array name="i18n_message_center_tabs">
+        <item>期刊</item>
+        <item>呼喊</item>
+        <item>评论</item>
+        <item>喜欢</item>
+        <item>关注</item>
+    </string-array>
+
+    <string name="i18n_rating_dialog_title">评价应用</string>
+    <string name="i18n_rating_dialog_message">如果你喜欢这个应用，请给我一个评价\n\n谢谢支持！</string>
+    <string name="i18n_rating_dialog_ok">当然！</string>
+    <string name="i18n_rating_dialog_cancel">稍后</string>
+    <string name="i18n_rating_dialog_no">已完成</string>
+
+    <string-array name="i18n_search_view_criteria_entry">
+        <item>相关性</item>
+        <item>日期</item>
+        <item>人气</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_order_entry">
+        <item>升序</item>
+        <item>降序</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_results_entry">
+        <item>24</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="i18n_search_view_range_entry">
+        <item>一天</item>
+        <item>三天</item>
+        <item>一周</item>
+        <item>一月</item>
+        <item>所有时期</item>
+    </string-array>
+
+    <string name="i18n_search_view_sort_by_rating_title">按评级排序</string>
+    <string name="i18n_search_view_sort_by_type_title">按类型排序</string>
+    <string name="i18n_search_view_match_title">匹配关键字</string>
+
+    <string-array name="i18n_search_view_match_entry">
+        <item>所有的词</item>
+        <item>任何一个词</item>
+        <item>扩展</item>
+    </string-array>
+
+    <string-array name="i18n_submissions_ordered_titles">
+        <item>最早的</item>
+        <item>最新的</item>
+    </string-array>
+
+    <string name="i18n_toast_app_not_found_for_view">找不到用于浏览的应用程序</string>
+    <string name="i18n_toast_app_not_found_browser">找不到用于浏览的应用程序</string>
+    <string name="i18n_toast_app_not_found_sharing">找不到用于分享的应用程序</string>
+    <string name="i18n_toast_comment_hide">隐藏评论</string>
+    <string name="i18n_toast_comment_sending">发送评论</string>
+    <string name="i18n_toast_journal_link_copied">期刊链接已复制</string>
+    <string name="i18n_toast_deleted_notifications">已删除通知</string>
+    <string name="i18n_toast_replay_send">发送回复</string>
+    <string name="i18n_toast_recipient_empty">收件人为空</string>
+    <string name="i18n_toast_replay_not_send">回复未发送</string>
+    <string name="i18n_toast_note_send">发送便条</string>
+    <string name="i18n_toast_note_not_send">便条未发送</string>
+    <string name="i18n_toast_user_link_copied">用户链接已复制</string>
+    <string name="i18n_toast_shout_empty">呼喊为空</string>
+    <string name="i18n_toast_shout_sending">发送呼喊</string>
+    <string name="i18n_toast_view_link_copied">浏览链接已复制</string>
+
+    <string name="i18n_snake_some_error">一些错误</string>
+    <string name="i18n_snake_action_renew">更新</string>
+    <string name="i18n_snake_picture_not_downloaded">图片未下载</string>
+
+    <string name="i18n_privacy_policy">隐私政策</string>
+
+    <string name="i18n_share_link_using">使用分享链接</string>
+
+    <string name="i18n_background_service">后台服务</string>
+    <string name="i18n_background_service_group">正在运行后台服务</string>
+    <string name="i18n_background_service_check_notifications">检查通知</string>
+    <string name="i18n_background_service_handle_actions">处理操作</string>
+    <string name="i18n_background_service_view_download">查看下载</string>
+    <string name="i18n_background_service_submission_remove">提交删除</string>
+    <string name="i18n_background_service_submission_favorite">提交喜欢</string>
+
+    <string name="i18n_notification_workers_view_id_template">图片id: </string>
+    <string name="i18n_notification_workers_submission_view_favorite_task_queue">提交任务：队列</string>
+    <string name="i18n_notification_workers_view_favorite_task_progress">喜欢任务：前进</string>
+    <string name="i18n_notification_workers_view_favorite_task_fall">喜欢任务：后退</string>
+    <string name="i18n_notification_workers_un_view_add_progress">不感兴趣任务：前进</string>
+    <string name="i18n_notification_workers_un_view_add_fall">不感兴趣任务：后退</string>
+    <string name="i18n_notification_workers_view_task_progress">浏览任务：前进</string>
+    <string name="i18n_notification_workers_view_task_fall">浏览任务：后退</string>
+    <string name="i18n_notification_workers_view_download_progress">下载任务：前进</string>
+    <string name="i18n_notification_workers_view_download_fall">下载任务：后退</string>
+    <string name="i18n_notification_workers_submission_remove_progress">移除任务：前进</string>
+    <string name="i18n_notification_workers_submission_remove_fall">移除任务：后退</string>
+
+    <string name="i18n_dialog_network_state_gone">网络断开</string>
+    <string name="i18n_dialog_anti_ddos_is_failed">应用程序暂时不工作</string>
+    <string name="i18n_image_cant_shown">无法显示图像</string>
+
+    <string name="i18n_view_activity_not_found">找不到打开url的应用程序</string>
 </resources>
