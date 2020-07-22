@@ -67,7 +67,7 @@
     <string name="i18n_subscribe_period">/ mo</string>
     <string name="i18n_subscribe_manage">管理订阅</string>
     <string name="i18n_subscribe_description_explain">如果您在试用结束前没有取消订阅，您将被自动收取每月%1$s的费用，直到您取消为止</string>
-    <string name="i18n_subscribe_part1">%1$s月费</string>
+    <string name="i18n_subscribe_part1">月费%1$s</string>
     <string name="i18n_subscribe_part2">随时取消</string>
     <string name="i18n_subscribe_trial_part1">按月订阅</string>
     <string name="i18n_subscribe_trial_part2">试用结束后%1$s/月</string>
@@ -180,8 +180,8 @@
     <string name="i18n_count">计数</string>
     <string name="i18n_delete">删除</string>
     <string name="i18n_trash">垃圾箱</string>
-    <string name="i18n_watch">+关注</string>
-    <string name="i18n_un_watch">-关注</string>
+    <string name="i18n_watch">添加关注</string>
+    <string name="i18n_un_watch">移除关注</string>
     <string name="i18n_fav">添加喜欢</string>
     <string name="i18n_un_fav">移除喜欢</string>
 
@@ -233,7 +233,7 @@
     <string-array name="i18n_user_page_tabs">
         <item>简介</item>
         <item>相簿</item>
-        <item>喜欢簿</item>
+        <item>喜欢</item>
         <item>期刊</item>
         <item>关注</item>
         <item>呼喊</item>
@@ -300,7 +300,7 @@
         <item>最新的</item>
     </string-array>
 
-    <string name="i18n_toast_app_not_found_for_view">找不到用于浏览的应用程序</string>
+    <string name="i18n_toast_app_not_found_for_view">找不到用于查看的应用程序</string>
     <string name="i18n_toast_app_not_found_browser">找不到用于浏览的应用程序</string>
     <string name="i18n_toast_app_not_found_sharing">找不到用于分享的应用程序</string>
     <string name="i18n_toast_comment_hide">隐藏评论</string>
@@ -335,16 +335,16 @@
 
     <string name="i18n_notification_workers_view_id_template">图片id: </string>
     <string name="i18n_notification_workers_submission_view_favorite_task_queue">提交任务：队列</string>
-    <string name="i18n_notification_workers_view_favorite_task_progress">喜欢任务：前进</string>
-    <string name="i18n_notification_workers_view_favorite_task_fall">喜欢任务：后退</string>
-    <string name="i18n_notification_workers_un_view_add_progress">不感兴趣任务：前进</string>
-    <string name="i18n_notification_workers_un_view_add_fall">不感兴趣任务：后退</string>
-    <string name="i18n_notification_workers_view_task_progress">浏览任务：前进</string>
-    <string name="i18n_notification_workers_view_task_fall">浏览任务：后退</string>
-    <string name="i18n_notification_workers_view_download_progress">下载任务：前进</string>
-    <string name="i18n_notification_workers_view_download_fall">下载任务：后退</string>
-    <string name="i18n_notification_workers_submission_remove_progress">移除任务：前进</string>
-    <string name="i18n_notification_workers_submission_remove_fall">移除任务：后退</string>
+    <string name="i18n_notification_workers_view_favorite_task_progress">喜欢任务：进行中</string>
+    <string name="i18n_notification_workers_view_favorite_task_fall">喜欢任务：失败</string>
+    <string name="i18n_notification_workers_un_view_add_progress">不感兴趣任务：进行中</string>
+    <string name="i18n_notification_workers_un_view_add_fall">不感兴趣任务：失败</string>
+    <string name="i18n_notification_workers_view_task_progress">浏览任务：进行中</string>
+    <string name="i18n_notification_workers_view_task_fall">浏览任务：失败</string>
+    <string name="i18n_notification_workers_view_download_progress">下载任务：进行中</string>
+    <string name="i18n_notification_workers_view_download_fall">下载任务：失败</string>
+    <string name="i18n_notification_workers_submission_remove_progress">移除任务：进行中</string>
+    <string name="i18n_notification_workers_submission_remove_fall">移除任务：失败</string>
 
     <string name="i18n_dialog_network_state_gone">网络断开</string>
     <string name="i18n_dialog_anti_ddos_is_failed">应用程序暂时不工作</string>
