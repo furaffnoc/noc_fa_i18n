@@ -351,4 +351,226 @@
     <string name="i18n_image_cant_shown">无法显示图像</string>
 
     <string name="i18n_view_activity_not_found">找不到打开url的应用程序</string>
+
+    <string-array name="i18n_browse_category_entry">
+        <item>全部</item>
+        <item>艺术品 (数字)</item>
+        <item>艺术品 (传统)</item>
+        <item>卡通渲染</item>
+        <item>手工艺</item>
+        <item>设计</item>
+        <item>兽装</item>
+        <item>图标</item>
+        <item>马赛克</item>
+        <item>摄影</item>
+        <item>雕刻</item>
+        <item>故事</item>
+        <item>诗歌</item>
+        <item>散文</item>
+        <item>皮肤</item>
+        <item>手持式</item>
+        <item>资源</item>
+        <item>可领养</item>
+        <item>拍卖</item>
+        <item>竞赛</item>
+        <item>时事</item>
+        <item>桌面</item>
+        <item>旧艺术</item>
+        <item>截图</item>
+        <item>废弃</item>
+        <item>壁纸</item>
+        <item>YCH/出售</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="i18n_browse_type_entry">
+        <item>全部</item>
+        <item>抽象</item>
+        <item>动物相关 (非人形)</item>
+        <item>动漫</item>
+        <item>漫画</item>
+        <item>涂鸦</item>
+        <item>原创</item>
+        <item>幻想</item>
+        <item>人类</item>
+        <item>人像</item>
+        <item>风景</item>
+        <item>静物</item>
+        <item>教程</item>
+        <item>其他</item>
+        <item>幼兽</item>
+        <item>束缚</item>
+        <item>数码宝贝</item>
+        <item>肥兽</item>
+        <item>恋物癖</item>
+        <item>兽装</item>
+        <item>血腥/恐怖艺术</item>
+        <item>精力过剩</item>
+        <item>充气</item>
+        <item>宏观/微观</item>
+        <item>肌肉</item>
+        <item>我的小马/小马迷</item>
+        <item>爪</item>
+        <item>宝可梦</item>
+        <item>怀孕</item>
+        <item>音速</item>
+        <item>兽化</item>
+        <item>吞食性爱好</item>
+        <item>恋尿癖</item>
+        <item>常规Furry艺术</item>
+    </string-array>
+
+    <string-array name="i18n_browse_species_entry">
+        <item>未指定/任何</item>
+        <item>两栖类 (其他)</item>
+        <item>青蛙</item>
+        <item>蝾螈</item>
+        <item>火蝾螈</item>
+        <item>水生类 (其他)</item>
+        <item>头足类</item>
+        <item>海豚</item>
+        <item>鲸鱼</item>
+        <item>江豚</item>
+        <item>鱼</item>
+        <item>鲨鱼</item>
+        <item>鸟类 (其他)</item>
+        <item>鸦</item>
+        <item>乌鸦</item>
+        <item>鸭</item>
+        <item>雕</item>
+        <item>隼</item>
+        <item>鹅</item>
+        <item>狮鹫</item>
+        <item>鹰</item>
+        <item>猫头鹰</item>
+        <item>凤凰</item>
+        <item>天鹅</item>
+        <item>龙 (其他)</item>
+        <item>东方龙</item>
+        <item>九头蛇 (Hydra)</item>
+        <item>蛇 (Serpent)</item>
+        <item>西方龙</item>
+        <item>飞龙</item>
+        <item>外来物种 (其他)</item>
+        <item>外星人 (其他)</item>
+        <item>亚龙人 (Argonian)</item>
+        <item>兽人 (Chakat)</item>
+        <item>陆行鸟 (Chocobo)</item>
+        <item>Citra</item>
+        <item>Crux</item>
+        <item>Daemon</item>
+        <item>数码宝贝</item>
+        <item>Dracat</item>
+        <item>德莱尼 (Draenei)</item>
+        <item>精灵</item>
+        <item>石像鬼 (Gargoyle)</item>
+        <item>伊克萨 (Iksar)</item>
+        <item>Langurhali</item>
+        <item>怪兽/怪物</item>
+        <item>那伽 (Naga)</item>
+        <item>莫古利 (Moogle)</item>
+        <item>半兽人 (Orc)</item>
+        <item>宝可梦</item>
+        <item>萨堤尔 (Satyr)</item>
+        <item>鲨狗 (Sergal)</item>
+        <item>貉 (狸)</item>
+        <item>独角兽</item>
+        <item>异形</item>
+        <item>哺乳动物 (其他)</item>
+        <item>蝙蝠</item>
+        <item>熊</item>
+        <item>黄牛</item>
+        <item>羚羊</item>
+        <item>瞪羚</item>
+        <item>山羊</item>
+        <item>牛 (常规)</item>
+        <item>郊狼</item>
+        <item>杜宾犬</item>
+        <item>狗</item>
+        <item>澳洲野犬</item>
+        <item>德国牧羊犬</item>
+        <item>胡狼</item>
+        <item>西伯利亚哈士奇</item>
+        <item>狐狸 (其他)</item>
+        <item>狼</item>
+        <item>犬类 (其他)</item>
+        <item>鹿 (其他)</item>
+        <item>驴</item>
+        <item>家猫</item>
+        <item>猎豹</item>
+        <item>美洲狮</item>
+        <item>美洲豹 (美洲虎)</item>
+        <item>豹</item>
+        <item>狮</item>
+        <item>猞猁 (山猫)</item>
+        <item>虎猫 (美洲豹猫)</item>
+        <item>豹</item>
+        <item>虎</item>
+        <item>猫科 (其他)</item>
+        <item>长颈鹿</item>
+        <item>刺猬</item>
+        <item>河马</item>
+        <item>马</item>
+        <item>鬣狗</item>
+        <item>大羊驼 (骆马)</item>
+        <item>负鼠</item>
+        <item>袋鼠</item>
+        <item>树袋熊 (无尾熊/树熊/考拉)</item>
+        <item>袋鼬</item>
+        <item>小袋鼠</item>
+        <item>有袋类 (其他)</item>
+        <item>狐獴</item>
+        <item>獴 (猫鼬)</item>
+        <item>獾</item>
+        <item>蒙眼貂 (雪貂/地中海雪貂)</item>
+        <item>水獭</item>
+        <item>水鼬 (水貂)</item>
+        <item>鼬</item>
+        <item>金钢狼</item>
+        <item>鼬 (其他)</item>
+        <item>大熊猫</item>
+        <item>猪</item>
+        <item>大猩猩</item>
+        <item>人类</item>
+        <item>Lemur</item>
+        <item>狐猴</item>
+        <item>灵长目 (其他)</item>
+        <item>家兔/野兔</item>
+        <item>浣熊</item>
+        <item>大鼠</item>
+        <item>喜马拉雅小熊猫 (西方小熊猫)</item>
+        <item>犀牛</item>
+        <item>河狸</item>
+        <item>老鼠</item>
+        <item>啮齿目 (其他)</item>
+        <item>鳍足类</item>
+        <item>臭鼬</item>
+        <item>松鼠</item>
+        <item>斑马</item>
+        <item>耳廓狐</item>
+        <item>矮种马 (小马)</item>
+        <item>骆驼</item>
+        <item>爬行动物 (其他)</item>
+        <item>短吻鳄 &amp; 鳄鱼</item>
+        <item>壁虎</item>
+        <item>美洲鬣蜥</item>
+        <item>蜥蜴</item>
+        <item>蛇</item>
+        <item>龟鳖目</item>
+        <item>蛛形纲 (蜘蛛纲)</item>
+        <item>恐龙</item>
+        <item>昆虫 (其他)</item>
+        <item>螳螂</item>
+        <item>蝎</item>
+    </string-array>
+
+    <string-array name="i18n_browse_gender_entry">
+        <item>任何</item>
+        <item>雄/公/男</item>
+        <item>雌/母/女</item>
+        <item>雌雄同体</item>
+        <item>跨性别/变性</item>
+        <item>多元特征</item>
+        <item>其他/未指定</item>
+    </string-array>
 </resources>
