@@ -234,7 +234,7 @@
         <item>简介</item>
         <item>相簿</item>
         <item>喜欢</item>
-        <item> 日志</item>
+        <item>日志</item>
         <item>关注</item>
         <item>呼喊</item>
     </string-array>
@@ -247,7 +247,7 @@
     </string-array>
 
     <string-array name="i18n_message_center_tabs">
-        <item> 日志</item>
+        <item>日志</item>
         <item>呼喊</item>
         <item>评论</item>
         <item>喜欢</item>
