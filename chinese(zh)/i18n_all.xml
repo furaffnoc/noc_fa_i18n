@@ -32,10 +32,10 @@
     <string name="i18n_rating_adult_full">成人</string>
     <string name="i18n_view">视图</string>
     <string name="i18n_column_count">列数</string>
-    <string name="i18n_criteria">标准</string>
+    <string name="i18n_criteria">排列依据</string>
     <string name="i18n_order">排列顺序</string>
-    <string name="i18n_results">结果</string>
-    <string name="i18n_range">范围</string>
+    <string name="i18n_results">排列结果</string>
+    <string name="i18n_range">排列范围</string>
     <string name="i18n_art">艺术</string>
     <string name="i18n_music">音乐</string>
     <string name="i18n_flash">动画</string>
