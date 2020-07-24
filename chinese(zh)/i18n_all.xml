@@ -21,7 +21,7 @@
     <string name="i18n_comments">评论</string>
     <string name="i18n_favorites">喜欢</string>
     <string name="i18n_gallery">相簿</string>
-    <string name="i18n_views">观看次数</string>
+    <string name="i18n_views">浏览</string>
     <string name="i18n_see_all">查看全部</string>
     <string name="i18n_comment_1">评论……</string>
     <string name="i18n_reply">回复</string>
@@ -48,10 +48,10 @@
     <string name="i18n_restore">恢复</string>
     <string name="i18n_browser_open">用浏览器打开</string>
     <string name="i18n_complain">投诉</string>
-    <string name="i18n_compose">组成</string>
+    <string name="i18n_compose">写</string>
     <string name="i18n_download">下载</string>
     <string name="i18n_see">查看</string>
-    <string name="i18n_note_compose">便条组成</string>
+    <string name="i18n_note_compose">写便条</string>
     <string name="i18n_watchers">关注者</string>
     <string name="i18n_try_for">尝试</string>
     <string name="i18n_popular">人气</string>
@@ -74,7 +74,7 @@
     <string name="i18n_subscribe_trial_pre_part1">7天</string>
     <string name="i18n_subscribe_trial_pre_part2">免费试用</string>
 
-    <string name="i18n_art_on_background">艺术背景 -</string>
+    <string name="i18n_art_on_background">背景艺术作品 -</string>
     <string name="i18n_flash_lioness">\@Flash_Lioness</string>
 
     <string name="i18n_about_dialog_more_info">详细信息</string>
@@ -134,7 +134,7 @@
     <string name="i18n_vibration_title">振动</string>
     <string name="i18n_open_settings">打开设置</string>
     <string name="i18n_content_title">内容</string>
-    <string name="i18n_journals_title">期刊</string>
+    <string name="i18n_journals_title">日志</string>
     <string name="i18n_watched_title">关注</string>
 
     <string name="i18n_message_center_comments_item_title_pre">已回复给</string>
@@ -234,7 +234,7 @@
         <item>简介</item>
         <item>相簿</item>
         <item>喜欢</item>
-        <item>期刊</item>
+        <item> 日志</item>
         <item>关注</item>
         <item>呼喊</item>
     </string-array>
@@ -247,7 +247,7 @@
     </string-array>
 
     <string-array name="i18n_message_center_tabs">
-        <item>期刊</item>
+        <item> 日志</item>
         <item>呼喊</item>
         <item>评论</item>
         <item>喜欢</item>
@@ -305,7 +305,7 @@
     <string name="i18n_toast_app_not_found_sharing">找不到用于分享的应用程序</string>
     <string name="i18n_toast_comment_hide">隐藏评论</string>
     <string name="i18n_toast_comment_sending">发送评论</string>
-    <string name="i18n_toast_journal_link_copied">期刊链接已复制</string>
+    <string name="i18n_toast_journal_link_copied">日志链接已复制</string>
     <string name="i18n_toast_deleted_notifications">已删除通知</string>
     <string name="i18n_toast_replay_send">发送回复</string>
     <string name="i18n_toast_recipient_empty">收件人为空</string>
