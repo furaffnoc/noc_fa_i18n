@@ -569,7 +569,10 @@
         <item>雄/公/男</item>
         <item>雌/母/女</item>
         <item>雌雄同体</item>
-        <item>跨性别/变性</item>
+        <item>Intersex</item>
+        <item>Trans (Male)</item>
+        <item>Trans (Female)</item>
+        <item>Non-Binary</item>
         <item>多元特征</item>
         <item>其他/未指定</item>
     </string-array>

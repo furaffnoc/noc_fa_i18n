@@ -569,7 +569,10 @@
         <item>Male</item>
         <item>Female</item>
         <item>Herm</item>
-        <item>Transgender</item>
+        <item>Intersex</item>
+        <item>Trans (Male)</item>
+        <item>Trans (Female)</item>
+        <item>Non-Binary</item>
         <item>Multiple characters</item>
         <item>Other / Not Specified</item>
     </string-array>
