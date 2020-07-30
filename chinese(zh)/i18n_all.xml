@@ -6,9 +6,9 @@
     <string name="i18n_description_by">由</string>
     <string name="i18n_none_u">无</string>
     <string name="i18n_none">无</string>
-    <string name="i18n_rating_general">一般</string>
-    <string name="i18n_rating_mature">成熟</string>
-    <string name="i18n_rating_adult">成人</string>
+    <string name="i18n_rating_general">G</string>
+    <string name="i18n_rating_mature">M</string>
+    <string name="i18n_rating_adult">A</string>
     <string name="i18n_search">搜索</string>
     <string name="i18n_submissions">提交</string>
     <string name="i18n_notifications">通知</string>
@@ -19,7 +19,7 @@
     <string name="i18n_themes">主题</string>
     <string name="i18n_nothing">没有</string>
     <string name="i18n_comments">评论</string>
-    <string name="i18n_favorites">喜欢</string>
+    <string name="i18n_favorites">收藏</string>
     <string name="i18n_gallery">相簿</string>
     <string name="i18n_views">浏览</string>
     <string name="i18n_see_all">查看全部</string>
@@ -27,23 +27,23 @@
     <string name="i18n_reply">回复</string>
     <string name="i18n_filter">过滤</string>
     <string name="i18n_type">类型</string>
-    <string name="i18n_rating_general_full">一般</string>
-    <string name="i18n_rating_mature_full">成熟</string>
-    <string name="i18n_rating_adult_full">成人</string>
+    <string name="i18n_rating_general_full">普通(G)</string>
+    <string name="i18n_rating_mature_full">成熟(M)</string>
+    <string name="i18n_rating_adult_full">成人(A)</string>
     <string name="i18n_view">视图</string>
     <string name="i18n_column_count">列数</string>
-    <string name="i18n_criteria">排列依据</string>
-    <string name="i18n_order">排列顺序</string>
-    <string name="i18n_results">排列结果</string>
-    <string name="i18n_range">排列范围</string>
+    <string name="i18n_criteria">排序依据</string>
+    <string name="i18n_order">排序类型</string>
+    <string name="i18n_results">结果数量</string>
+    <string name="i18n_range">时间范围</string>
     <string name="i18n_art">艺术</string>
     <string name="i18n_music">音乐</string>
     <string name="i18n_flash">动画</string>
     <string name="i18n_story">故事</string>
     <string name="i18n_photos">照片</string>
     <string name="i18n_poetry">诗歌</string>
-    <string name="i18n_ordered">排列顺序</string>
-    <string name="i18n_archive">档案</string>
+    <string name="i18n_ordered">排序类型</string>
+    <string name="i18n_archive">归档</string>
     <string name="i18n_mark_unread">标记未读</string>
     <string name="i18n_restore">恢复</string>
     <string name="i18n_browser_open">用浏览器打开</string>
@@ -60,9 +60,9 @@
     <string name="i18n_subscription">订阅</string>
     <string name="i18n_subscribe_title">订阅：高级功能</string>
     <string name="i18n_subscribe_body_1">解锁人气区</string>
-    <string name="i18n_subscribe_body_1_2">人气区里有用户最喜欢的内容</string>
+    <string name="i18n_subscribe_body_1_2">人气区有被更多用户收藏的内容</string>
     <string name="i18n_subscribe_body_2">解锁滑动操作</string>
-    <string name="i18n_subscribe_body_2_1">快捷方便地内容交互，例如，添加喜欢或删除提交</string>
+    <string name="i18n_subscribe_body_2_1">快捷方便地内容交互，例如，添加收藏或删除提交</string>
     <string name="i18n_free_trial_text">免费试用一周</string>
     <string name="i18n_subscribe_period">/ mo</string>
     <string name="i18n_subscribe_manage">管理订阅</string>
@@ -110,7 +110,7 @@
     <string name="i18n_login_pass_reset">密码重置</string>
 
     <string name="i18n_main_settings_image_quality">图片质量</string>
-    <string name="i18n_main_settings_auto_download">添加喜欢自动下载图片</string>
+    <string name="i18n_main_settings_auto_download">添加收藏自动下载图片</string>
     <string name="i18n_main_settings_download_title">下载路径</string>
     <string name="i18n_main_settings_download_mode">下载模式</string>
 
@@ -124,7 +124,7 @@
     <string name="i18n_main_settings_download_file_mode_first">原始</string>
     <string name="i18n_main_settings_download_file_mode_second">别名</string>
 
-    <string name="i18n_main_settings_auto_close_menu_on_content_page">点击喜欢后菜单自动关闭</string>
+    <string name="i18n_main_settings_auto_close_menu_on_content_page">点击收藏菜单自动关闭</string>
     <string name="i18n_main_settings_enable_animation">启用动画</string>
 
     <string name="i18n_enabled_title">启用</string>
@@ -138,7 +138,7 @@
     <string name="i18n_watched_title">关注</string>
 
     <string name="i18n_message_center_comments_item_title_pre">已回复给</string>
-    <string name="i18n_message_center_favorited">喜欢</string>
+    <string name="i18n_message_center_favorited">收藏</string>
     <string name="i18n_message_center_posted_by">发表由</string>
 
     <string name="i18n_note_post">帖子</string>
@@ -174,16 +174,16 @@
 
     <string name="i18n_view_comments_edit_hide_comment">隐藏</string>
 
-    <string name="i18n_user_recent_watched">最近看过</string>
-    <string name="i18n_user_recent_watchers">最近关注</string>
+    <string name="i18n_user_recent_watched">你的最近关注</string>
+    <string name="i18n_user_recent_watchers">最近关注你的人</string>
 
     <string name="i18n_count">计数</string>
     <string name="i18n_delete">删除</string>
     <string name="i18n_trash">垃圾箱</string>
     <string name="i18n_watch">添加关注</string>
     <string name="i18n_un_watch">移除关注</string>
-    <string name="i18n_fav">添加喜欢</string>
-    <string name="i18n_un_fav">移除喜欢</string>
+    <string name="i18n_fav">添加收藏</string>
+    <string name="i18n_un_fav">移除收藏</string>
 
     <string name="i18n_notes_folders">文件夹</string>
     <string name="i18n_notes_high">高</string>
@@ -233,7 +233,7 @@
     <string-array name="i18n_user_page_tabs">
         <item>简介</item>
         <item>相簿</item>
-        <item>喜欢</item>
+        <item>收藏</item>
         <item>日志</item>
         <item>关注</item>
         <item>呼喊</item>
@@ -250,7 +250,7 @@
         <item>日志</item>
         <item>呼喊</item>
         <item>评论</item>
-        <item>喜欢</item>
+        <item>收藏</item>
         <item>关注</item>
     </string-array>
 
@@ -331,12 +331,12 @@
     <string name="i18n_background_service_handle_actions">处理操作</string>
     <string name="i18n_background_service_view_download">查看下载</string>
     <string name="i18n_background_service_submission_remove">提交删除</string>
-    <string name="i18n_background_service_submission_favorite">提交喜欢</string>
+    <string name="i18n_background_service_submission_favorite">提交收藏</string>
 
     <string name="i18n_notification_workers_view_id_template">图片id: </string>
     <string name="i18n_notification_workers_submission_view_favorite_task_queue">提交任务：队列</string>
-    <string name="i18n_notification_workers_view_favorite_task_progress">喜欢任务：进行中</string>
-    <string name="i18n_notification_workers_view_favorite_task_fall">喜欢任务：失败</string>
+    <string name="i18n_notification_workers_view_favorite_task_progress">收藏任务：进行中</string>
+    <string name="i18n_notification_workers_view_favorite_task_fall">收藏任务：失败</string>
     <string name="i18n_notification_workers_un_view_add_progress">不感兴趣任务：进行中</string>
     <string name="i18n_notification_workers_un_view_add_fall">不感兴趣任务：失败</string>
     <string name="i18n_notification_workers_view_task_progress">浏览任务：进行中</string>
