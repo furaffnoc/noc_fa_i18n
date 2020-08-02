@@ -351,4 +351,229 @@
     <string name="i18n_image_cant_shown">Image can\'t be shown</string>
 
     <string name="i18n_view_activity_not_found">Not found program to open url</string>
+
+    <string-array name="i18n_browse_category_entry">
+        <item>All</item>
+        <item>Artwork (Digital)</item>
+        <item>Artwork (Traditional)</item>
+        <item>Cellshading</item>
+        <item>Crafting</item>
+        <item>Designs</item>
+        <item>Fursuiting</item>
+        <item>Icons</item>
+        <item>Mosaics</item>
+        <item>Photography</item>
+        <item>Sculpting</item>
+        <item>Story</item>
+        <item>Poetry</item>
+        <item>Prose</item>
+        <item>Skins</item>
+        <item>Handhelds</item>
+        <item>Resources</item>
+        <item>Adoptables</item>
+        <item>Auctions</item>
+        <item>Contests</item>
+        <item>Current Events</item>
+        <item>Desktops</item>
+        <item>Stockart</item>
+        <item>Screenshots</item>
+        <item>Scraps</item>
+        <item>Wallpaper</item>
+        <item>YCH / Sale</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="i18n_browse_type_entry">
+        <item>All</item>
+        <item>Abstract</item>
+        <item>Animal related (non-anthro)</item>
+        <item>Anime</item>
+        <item>Comics</item>
+        <item>Doodle</item>
+        <item>Fanart</item>
+        <item>Fantasy</item>
+        <item>Human</item>
+        <item>Portraits</item>
+        <item>Scenery</item>
+        <item>Still Life</item>
+        <item>Tutorials</item>
+        <item>Miscellaneous</item>
+        <item>Baby fur</item>
+        <item>Bondage</item>
+        <item>Digimon</item>
+        <item>Fat Furs</item>
+        <item>Fetish Other</item>
+        <item>Fursuit</item>
+        <item>Gore / Macabre Art</item>
+        <item>Hyper</item>
+        <item>Inflation</item>
+        <item>Macro / Micro</item>
+        <item>Muscle</item>
+        <item>My Little Pony / Brony</item>
+        <item>Paw</item>
+        <item>Pokemon</item>
+        <item>Pregnancy</item>
+        <item>Sonic</item>
+        <item>Transformation</item>
+        <item>Vore</item>
+        <item>Water Sports</item>
+        <item>General Furry Art</item>
+    </string-array>
+
+    <string-array name="i18n_browse_species_entry">
+        <item>Unspecified / Any</item>
+        <item>Amphibian (Other)</item>
+        <item>Frog</item>
+        <item>Newt</item>
+        <item>Salamander</item>
+        <item>Aquatic (Other)</item>
+        <item>Cephalopod</item>
+        <item>Dolphin</item>
+        <item>Whale</item>
+        <item>Porpoise</item>
+        <item>Fish</item>
+        <item>Shark</item>
+        <item>Avian (Other)</item>
+        <item>Corvid</item>
+        <item>Crow</item>
+        <item>Duck</item>
+        <item>Eagle</item>
+        <item>Falcon</item>
+        <item>Goose</item>
+        <item>Gryphon</item>
+        <item>Hawk</item>
+        <item>Owl</item>
+        <item>Phoenix</item>
+        <item>Swan</item>
+        <item>Dragon (Other)</item>
+        <item>Eastern Dragon</item>
+        <item>Hydra</item>
+        <item>Serpent</item>
+        <item>Western Dragon</item>
+        <item>Wyvern</item>
+        <item>Exotic (Other)</item>
+        <item>Alien (Other)</item>
+        <item>Argonian</item>
+        <item>Chakat</item>
+        <item>Chocobo</item>
+        <item>Citra</item>
+        <item>Crux</item>
+        <item>Daemon</item>
+        <item>Digimon</item>
+        <item>Dracat</item>
+        <item>Draenei</item>
+        <item>Elf</item>
+        <item>Gargoyle</item>
+        <item>Iksar</item>
+        <item>Langurhali</item>
+        <item>Kaiju/Monster</item>
+        <item>Naga</item>
+        <item>Moogle</item>
+        <item>Orc</item>
+        <item>Pokemon</item>
+        <item>Satyr</item>
+        <item>Sergal</item>
+        <item>Tanuki</item>
+        <item>Unicorn</item>
+        <item>Xenomorph</item>
+        <item>Mammals (Other)</item>
+        <item>Bat</item>
+        <item>Bear</item>
+        <item>Cows</item>
+        <item>Antelope</item>
+        <item>Gazelle</item>
+        <item>Goat</item>
+        <item>Bovines (General)</item>
+        <item>Coyote</item>
+        <item>Doberman</item>
+        <item>Dog</item>
+        <item>Dingo</item>
+        <item>German Shepherd</item>
+        <item>Jackal</item>
+        <item>Husky</item>
+        <item>Vulpine (Other)</item>
+        <item>Wolf</item>
+        <item>Canine (Other)</item>
+        <item>Cervine (Other)</item>
+        <item>Donkey</item>
+        <item>Domestic Cat</item>
+        <item>Cheetah</item>
+        <item>Cougar</item>
+        <item>Jaguar</item>
+        <item>Leopard</item>
+        <item>Lion</item>
+        <item>Lynx</item>
+        <item>Ocelot</item>
+        <item>Panther</item>
+        <item>Tiger</item>
+        <item>Feline (Other)</item>
+        <item>Giraffe</item>
+        <item>Hedgehog</item>
+        <item>Hippopotamus</item>
+        <item>Horse</item>
+        <item>Hyena</item>
+        <item>Llama</item>
+        <item>Opossum</item>
+        <item>Kangaroo</item>
+        <item>Koala</item>
+        <item>Quoll</item>
+        <item>Wallaby</item>
+        <item>Marsupial (Other)</item>
+        <item>Meerkat</item>
+        <item>Mongoose</item>
+        <item>Badger</item>
+        <item>Ferret</item>
+        <item>Otter</item>
+        <item>Mink</item>
+        <item>Weasel</item>
+        <item>Wolverine</item>
+        <item>Mustelid (Other)</item>
+        <item>Panda</item>
+        <item>Pig/Swine</item>
+        <item>Gorilla</item>
+        <item>Human</item>
+        <item>Lemur</item>
+        <item>Monkey</item>
+        <item>Primate (Other)</item>
+        <item>Rabbit/Hare</item>
+        <item>Raccoon</item>
+        <item>Rat</item>
+        <item>Red Panda</item>
+        <item>Rhinoceros</item>
+        <item>Beaver</item>
+        <item>Mouse</item>
+        <item>Rodent (Other)</item>
+        <item>Seal</item>
+        <item>Skunk</item>
+        <item>Squirrel</item>
+        <item>Zebra</item>
+        <item>Fennec</item>
+        <item>Pony</item>
+        <item>Camel</item>
+        <item>Reptilian (Other)</item>
+        <item>Alligator &amp; Crocodile</item>
+        <item>Gecko</item>
+        <item>Iguana</item>
+        <item>Lizard</item>
+        <item>Snakes &amp; Serpents</item>
+        <item>Turtle</item>
+        <item>Arachnid</item>
+        <item>Dinosaur</item>
+        <item>Insect (Other)</item>
+        <item>Mantid</item>
+        <item>Scorpion</item>
+    </string-array>
+
+    <string-array name="i18n_browse_gender_entry">
+        <item>Any</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Herm</item>
+        <item>Intersex</item>
+        <item>Trans (Male)</item>
+        <item>Trans (Female)</item>
+        <item>Non-Binary</item>
+        <item>Multiple characters</item>
+        <item>Other / Not Specified</item>
+    </string-array>
 </resources>
