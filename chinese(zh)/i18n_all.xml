@@ -174,8 +174,8 @@
 
     <string name="i18n_view_comments_edit_hide_comment">隐藏</string>
 
-    <string name="i18n_user_recent_watched">你的最近关注</string>
-    <string name="i18n_user_recent_watchers">最近关注你的人</string>
+    <string name="i18n_user_recent_watched">最近关注</string>
+    <string name="i18n_user_recent_watchers">最近被关注</string>
 
     <string name="i18n_count">计数</string>
     <string name="i18n_delete">删除</string>
@@ -569,10 +569,10 @@
         <item>雄/公/男</item>
         <item>雌/母/女</item>
         <item>雌雄同体</item>
-        <item>Intersex</item>
-        <item>Trans (Male)</item>
-        <item>Trans (Female)</item>
-        <item>Non-Binary</item>
+        <item>双性人</item>
+        <item>跨性别（男性）</item>
+        <item>跨性别（女性）</item>
+        <item>非二元性别</item>
         <item>多元特征</item>
         <item>其他/未指定</item>
     </string-array>
