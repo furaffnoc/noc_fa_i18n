@@ -73,6 +73,9 @@
     <string name="i18n_subscribe_trial_part2">%1$s/month after trial ends</string>
     <string name="i18n_subscribe_trial_pre_part1">7 DAY</string>
     <string name="i18n_subscribe_trial_pre_part2">FREE TRIAL</string>
+    <string name="i18n_page">Page</string>
+    <string name="i18n_content">Content</string>
+    <string name="i18n_start_page">Start page</string>
 
     <string name="i18n_art_on_background">Art on background -</string>
     <string name="i18n_flash_lioness">\@Flash_Lioness</string>
@@ -206,6 +209,14 @@
         <item>English</item>
         <item>Chinese</item>
         <item>Korean</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_start_page">
+        <item>Browse</item>
+        <item>Submissions</item>
+        <item>Notifications</item>
+        <item>Notes</item>
+        <item>Search</item>
     </string-array>
 
     <string-array name="i18n_settings_notifications_timeout">
