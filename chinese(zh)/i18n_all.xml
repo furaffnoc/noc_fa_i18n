@@ -12,7 +12,7 @@
     <string name="i18n_search">搜索</string>
     <string name="i18n_submissions">提交</string>
     <string name="i18n_notifications">通知</string>
-    <string name="i18n_notes">便条</string>
+    <string name="i18n_notes">短信</string>
     <string name="i18n_settings">设置</string>
     <string name="i18n_theme">主题</string>
     <string name="i18n_language">语言</string>
@@ -47,11 +47,11 @@
     <string name="i18n_mark_unread">标记未读</string>
     <string name="i18n_restore">恢复</string>
     <string name="i18n_browser_open">用浏览器打开</string>
-    <string name="i18n_complain">投诉</string>
-    <string name="i18n_compose">写</string>
+    <string name="i18n_complain">举报</string>
+    <string name="i18n_compose">写短信</string>
     <string name="i18n_download">下载</string>
     <string name="i18n_see">查看</string>
-    <string name="i18n_note_compose">写便条</string>
+    <string name="i18n_note_compose">写短信</string>
     <string name="i18n_watchers">关注者</string>
     <string name="i18n_try_for">尝试</string>
     <string name="i18n_popular">人气</string>
@@ -73,7 +73,10 @@
     <string name="i18n_subscribe_trial_part2">试用结束后%1$s/月</string>
     <string name="i18n_subscribe_trial_pre_part1">7天</string>
     <string name="i18n_subscribe_trial_pre_part2">免费试用</string>
-
+    <string name="i18n_page">页面链接</string>
+    <string name="i18n_content">内容链接</string>
+    <string name="i18n_start_page">起始页</string>
+    
     <string name="i18n_art_on_background">背景艺术作品 -</string>
     <string name="i18n_flash_lioness">\@Flash_Lioness</string>
 
@@ -147,7 +150,7 @@
     <string name="i18n_note_subject_1">主题：</string>
     <string name="i18n_note_reply_1">回复：</string>
 
-    <string name="i18n_notes_not_found">没有找到便条</string>
+    <string name="i18n_notes_not_found">没有找到短信</string>
 
     <string name="i18n_search_bar_help">帮助</string>
 
@@ -208,6 +211,14 @@
         <item>韩文</item>
     </string-array>
 
+    <string-array name="i18n_settings_pref_start_page">
+        <item>浏览</item>
+        <item>建议</item>
+        <item>通知</item>
+        <item>短信</item>
+        <item>搜索</item>
+    </string-array>
+    
     <string-array name="i18n_settings_notifications_timeout">
         <item>6小时</item>
         <item>4小时</item>
@@ -310,8 +321,8 @@
     <string name="i18n_toast_replay_send">发送回复</string>
     <string name="i18n_toast_recipient_empty">收件人为空</string>
     <string name="i18n_toast_replay_not_send">回复未发送</string>
-    <string name="i18n_toast_note_send">发送便条</string>
-    <string name="i18n_toast_note_not_send">便条未发送</string>
+    <string name="i18n_toast_note_send">发送短信</string>
+    <string name="i18n_toast_note_not_send">短信未发送</string>
     <string name="i18n_toast_user_link_copied">用户链接已复制</string>
     <string name="i18n_toast_shout_empty">呼喊为空</string>
     <string name="i18n_toast_shout_sending">发送呼喊</string>
