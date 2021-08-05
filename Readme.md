@@ -1,11 +1,5 @@
-## NOC for Fur Affinity internationalization repository
-
-### Add translate
-
-1. Create folder - \<language\>(\<language_code\>). Example - chinese(zh) [Languages codes](https://www.science.co.il/language/Locale-codes.php)
-2. Copy i18n_all.xml folder from root to directory and translate :)
-
-## Thanks for translate
-- Chinese: [naloder](https://github.com/naloder) [JohnCanny52](https://github.com/JohnCanny52)
-- Korean [zenex1108](https://github.com/zenex1108)
-- Russian [MaxCat3](https://github.com/MaxCat3)
+Fur Affinity NOC 
+第三方 FurAffinity Android 客户端
+简体中文翻译
+此项目将被保持优化
+请给予我一些帮助，让我们一起将翻译内容变得更准确
