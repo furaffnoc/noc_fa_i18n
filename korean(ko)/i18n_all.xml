@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="i18n_app_name">Fur Affinity NOC</string>
-
     <string name="i18n_share">공유</string>
     <string name="i18n_copy_link">링크 복사</string>
     <string name="i18n_about">앱 정보</string>
@@ -10,71 +8,100 @@
     <string name="i18n_none">없습니다</string>
     <string name="i18n_rating_general">일</string>
     <string name="i18n_rating_mature">약</string>
-    <string name="i18n_rating_adult">높</string>
+    <string name="i18n_rating_adult">강</string>
     <string name="i18n_search">검색</string>
-    <string name="i18n_submissions">서브미션</string>
+    <string name="i18n_submissions">투고 작품</string>
     <string name="i18n_notifications">알림</string>
-    <string name="i18n_notes">노트</string>
+    <string name="i18n_notes">쪽지</string>
     <string name="i18n_settings">설정</string>
     <string name="i18n_theme">테마</string>
+    <string name="i18n_language">언어</string>
     <string name="i18n_themes">테마</string>
-    <string name="i18n_nothing">없습니다</string>
+    <string name="i18n_nothing">아무것도 없어요</string>
     <string name="i18n_comments">댓글</string>
     <string name="i18n_favorites">좋아요</string>
     <string name="i18n_gallery">갤러리</string>
-    <string name="i18n_views">페이지 뷰</string>
+    <string name="i18n_views">조회수</string>
     <string name="i18n_see_all">모두 보기</string>
-    <string name="i18n_comment_1">소식 남기기…</string>
+    <string name="i18n_comment_1">댓글 남기기…</string>
     <string name="i18n_reply">답글</string>
     <string name="i18n_filter">필터</string>
     <string name="i18n_type">유형</string>
     <string name="i18n_rating_general_full">일반 수위</string>
     <string name="i18n_rating_mature_full">약한 수위</string>
-    <string name="i18n_rating_adult_full">높은 수위</string>
-    <string name="i18n_view">뷰</string>
+    <string name="i18n_rating_adult_full">강한 수위</string>
+    <string name="i18n_view">보기</string>
     <string name="i18n_column_count">열 개수</string>
-    <string name="i18n_criteria">기준</string>
+    <string name="i18n_criteria">정렬 기준</string>
     <string name="i18n_order">정렬</string>
-    <string name="i18n_results">개수</string>
-    <string name="i18n_range">범위</string>
-    <string name="i18n_art">미술</string>
+    <string name="i18n_results">한 번에 로드할 개수</string>
+    <string name="i18n_range">기간 범위</string>
+    <string name="i18n_art">아트</string>
     <string name="i18n_music">음악</string>
     <string name="i18n_flash">플래시</string>
-    <string name="i18n_story">이야기</string>
+    <string name="i18n_story">스토리</string>
     <string name="i18n_photos">사진</string>
-    <string name="i18n_poetry">짥은 글</string>
+    <string name="i18n_poetry">시가</string>
     <string name="i18n_ordered">정렬</string>
     <string name="i18n_archive">보관</string>
     <string name="i18n_mark_unread">안읽음 표시</string>
-    <string name="i18n_restore">원래대로</string>
-    <string name="i18n_browser_open">브라우저 열기</string>
-    <string name="i18n_compose">글 쓰기</string>
+    <string name="i18n_restore">복원</string>
+    <string name="i18n_browser_open">브라우저에서 보기</string>
+    <string name="i18n_complain">신고하기</string>
+    <string name="i18n_compose">쪽지하기</string>
     <string name="i18n_download">다운로드</string>
     <string name="i18n_see">보기</string>
-    <string name="i18n_note_compose">노트 작성</string>
+    <string name="i18n_note_compose">쪽지 쓰기</string>
     <string name="i18n_watchers">구독자</string>
+    <string name="i18n_try_for">시도</string>
     <string name="i18n_popular">인기작품</string>
+    <string name="i18n_premium">프리미엄</string>
+    <string name="i18n_subscribe">구독하기</string>
+    <string name="i18n_subscription">구독</string>
+    <string name="i18n_subscribe_title">구독: 고급 기능</string>
+    <string name="i18n_subscribe_body_1">인기작품 섹션</string>
+    <string name="i18n_subscribe_body_1_2">인기작품 섹션에는 사용자들이 가장 좋아하는 콘텐츠가 포함되어 있습니다</string>
+    <string name="i18n_subscribe_body_2">스와이프 액션</string>
+    <string name="i18n_subscribe_body_2_1">빠르고 편리하게 콘텐츠와 상호작용하세요 ('좋아요'와 '좋아요 취소')</string>
+    <string name="i18n_free_trial_text">평가판</string>
+    <string name="i18n_subscribe_period">/ mo</string>
+    <string name="i18n_subscribe_manage">구독 관리</string>
+    <string name="i18n_subscribe_description_explain">평가판이 종료되기 전에 취소하지 않으면, 취소할 때까지 매월 %1$s가 자동으로 청구됩니다</string>
+    <string name="i18n_subscribe_part1">월 마다 %1$s 청구됨</string>
+    <string name="i18n_subscribe_part2">언제든지 취소하세요</string>
+    <string name="i18n_subscribe_trial_part1">평가판 종료 후</string>
+    <string name="i18n_subscribe_trial_part2">%1$s/월 의 월간 구독으로 전환됩니다</string>
+    <string name="i18n_subscribe_trial_pre_part1">일주일</string>
+    <string name="i18n_subscribe_trial_pre_part2">평가판</string>
+    <string name="i18n_page">페이지</string>
+    <string name="i18n_content">컨텐츠</string>
+    <string name="i18n_start_page">시작화면</string>
+
+    <string name="i18n_art_on_background">배경 그린 이 -</string>
+    <string name="i18n_flash_lioness">\@Flash_Lioness</string>
 
     <string name="i18n_about_dialog_more_info">추가 정보</string>
-    <string name="i18n_about_dialog_contact">연락</string>
+    <string name="i18n_about_dialog_contact">연락하기</string>
 
-    <string name="i18n_content_not_found">내용을 가져오지 못했습니다…</string>
+    <string name="i18n_content_not_found">내용이 없습니다…</string>
 
     <string name="i18n_drawer_nsfw">후방주의</string>
     <string name="i18n_drawer_nsfw_on">켬</string>
     <string name="i18n_drawer_nsfw_off">끔</string>
 
-    <string name="i18n_drawer_navigation_my_page">내 페이지</string>
+    <string name="i18n_drawer_navigation_my_page">나의 홈</string>
 
     <string name="i18n_drawer_navigation_title">메뉴</string>
-    <string name="i18n_browse">살펴보기</string>
+    <string name="i18n_browse">둘러보기</string>
 
-    <string name="i18n_drawer_settings_full_app">전체 앱</string>
+    <string name="i18n_drawer_settings_full_app">모든 앱</string>
+
+    <string name="i18n_billing_sub_advanced">프리미엄 구독</string>
 
     <string name="i18n_drawer_account_title">계정</string>
     <string name="i18n_drawer_account_logout">로그아웃</string>
 
-    <string name="i18n_title_login">Fur Affinity 로그인</string>
+    <string name="i18n_title_login">FA 로그인</string>
 
     <string name="i18n_login_login">로그인</string>
     <string name="i18n_login_password">비밀번호</string>
@@ -82,22 +109,36 @@
     <string name="i18n_login_verification">확인</string>
     <string name="i18n_login_log_in">로그인</string>
     <string name="i18n_login_auth_error">인증 오류</string>
-    <string name="i18n_login_sign_in">회원가입</string>
+    <string name="i18n_login_sign_in">접속</string>
     <string name="i18n_login_pass_reset">비밀번호 초기화</string>
 
     <string name="i18n_main_settings_image_quality">이미지 화질</string>
     <string name="i18n_main_settings_auto_download">좋아요 할 때 이미지도 다운로드</string>
-    <string name="i18n_main_settings_auto_close_menu_on_content_page">좋아요 할 때 메뉴 닫기</string>
-    <string name="i18n_main_settings_enable_animation">애니메이션 사용</string>
+    <string name="i18n_main_settings_download_title">다운로드 위치</string>
+    <string name="i18n_main_settings_download_mode">다운로드 모드</string>
 
-    <string name="i18n_enabled_title">활성</string>
+    <string name="i18n_main_settings_download_mode_first">수위/작가 (다운로드_위치/furaffinity/general/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_second">작가/수위 (다운로드_위치/furaffinity/kojit/general/file)</string>
+    <string name="i18n_main_settings_download_mode_third">작가 (다운로드_위치/furaffinity/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_fourth">수위 (다운로드_위치/furaffinity/general/file)</string>
+    <string name="i18n_main_settings_download_mode_fifth">단일 (다운로드_위치/furaffinity/file)</string>
+
+    <string name="i18n_main_settings_download_file_mode">파일 이름</string>
+    <string name="i18n_main_settings_download_file_mode_first">원본</string>
+    <string name="i18n_main_settings_download_file_mode_second">제목</string>
+
+    <string name="i18n_main_settings_auto_close_menu_on_content_page">좋아요 할 때 메뉴 닫기</string>
+    <string name="i18n_main_settings_enable_animation">애니메이션 활성</string>
+
+    <string name="i18n_enabled_title">알림 활성</string>
     <string name="i18n_timeout_title">타임아웃</string>
     <string name="i18n_option_title">옵션</string>
     <string name="i18n_sound_title">소리</string>
     <string name="i18n_vibration_title">진동</string>
-    <string name="i18n_content_title">내용</string>
-    <string name="i18n_journals_title">저널</string>
-    <string name="i18n_watched_title">구독중</string>
+    <string name="i18n_open_settings">설정 열기</string>
+    <string name="i18n_content_title">알림 주제</string>
+    <string name="i18n_journals_title">일지</string>
+    <string name="i18n_watched_title">구독함</string>
 
     <string name="i18n_message_center_comments_item_title_pre">답장하기</string>
     <string name="i18n_message_center_favorited">좋아요 수</string>
@@ -105,39 +146,39 @@
 
     <string name="i18n_note_post">보내기</string>
     <string name="i18n_note_from">보냄</string>
-    <string name="i18n_note_recipient_1">받는사람:</string>
+    <string name="i18n_note_recipient_1">받는이:</string>
     <string name="i18n_note_subject_1">제목:</string>
     <string name="i18n_note_reply_1">답장:</string>
 
-    <string name="i18n_notes_not_found">노트를 찾을 수 없습니다</string>
+    <string name="i18n_notes_not_found">쪽지가 없습니다</string>
 
     <string name="i18n_search_bar_help">도움말</string>
 
-    <string name="i18n_search_help_ps_title">검색 지원</string>
+    <string name="i18n_search_help_ps_title">검색 안내</string>
     <string name="i18n_search_help_ps_text">기본 부울 연산자를 지원합니다:\n\u25CF AND: hello &amp; world\n\u25CF OR : hello | world\n\u25CF NOT: hello -world -or- hello !world\n\u25CF 묶어주기: (hello world)\n\n예시: ( cat -dog ) | ( cat -mouse)</string>
 
     <string name="i18n_search_help_cap_title">기능</string>
-    <string name="i18n_search_help_cap_text">\u25CF 필드 검색: @title hello @message world\n\u25CF 구문 검색: \'hello world\'\n\u25CF 근접한 단어 검색: \'hello world\'~10\n\u25CF 최소 단어 일치: \'the world is a wonderful place\'/3\n\n예시: \'hello world\' @title \'example program\'~5 @message python -(php|perl)</string>
+    <string name="i18n_search_help_cap_text">\u25CF 필드 검색: @title hello @message world\n\u25CF 구문 검색: \'hello world\'\n\u25CF 유사 단어 검색: \'hello world\'~10\n\u25CF 최소 단어 일치 검색: \'the world is a wonderful place\'/3\n\n예시: \'hello world\' @title \'example program\'~5 @message python -(php|perl)</string>
 
-    <string name="i18n_search_help_af_title">검색 가능한 필드</string>
-    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower (해당 창작자 페이지의 URL 주소에서 보이는 아이디)\n\u25CF \@keywords\n\nExample: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
+    <string name="i18n_search_help_af_title">검색 가능 필드</string>
+    <string name="i18n_search_help_af_text">\u25CF \@title\n\u25CF \@message\n\u25CF \@lower (해당 창작자 페이지의 URL 주소 상 아이디)\n\u25CF \@keywords\n\nExample: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>
 
-    <string name="i18n_submissions_not_found">제출한 이미지가 없습니다</string>
+    <string name="i18n_submissions_not_found">표시할 이미지 유형 투고 작품이 없습니다</string>
 
     <string name="i18n_submissions_description_remove">제거</string>
 
     <string name="i18n_view_rating">수위</string>
-    <string name="i18n_view_posted">작성됨</string>
+    <string name="i18n_view_posted">업로드</string>
     <string name="i18n_view_category">카테고리</string>
     <string name="i18n_view_period">기간</string>
-    <string name="i18n_view_per_page">페이지 별</string>
-    <string name="i18n_view_species">종</string>
+    <string name="i18n_view_per_page">한 번에 로드할 개수</string>
+    <string name="i18n_view_species">종족</string>
     <string name="i18n_view_gender">성별</string>
 
-    <string name="i18n_view_comments_edit_hide_comment">숨기기</string>
+    <string name="i18n_view_comments_edit_hide_comment">댓글 숨기기</string>
 
-    <string name="i18n_user_recent_watched">최근 구독자</string>
-    <string name="i18n_user_recent_watchers">최근 구독</string>
+    <string name="i18n_user_recent_watched">최근 구독</string>
+    <string name="i18n_user_recent_watchers">최근 구독자</string>
 
     <string name="i18n_count">개수</string>
     <string name="i18n_delete">삭제</string>
@@ -148,9 +189,9 @@
     <string name="i18n_un_fav">좋아요 취소</string>
 
     <string name="i18n_notes_folders">폴더</string>
-    <string name="i18n_notes_high">높은</string>
-    <string name="i18n_notes_medium">중간</string>
-    <string name="i18n_notes_low">낮은</string>
+    <string name="i18n_notes_high">높은 우선순위</string>
+    <string name="i18n_notes_medium">보통 우선순위</string>
+    <string name="i18n_notes_low">낮은 우선순위</string>
 
     <string-array name="i18n_settings_pref_image_quality">
         <item>초고화질</item>
@@ -160,8 +201,22 @@
     </string-array>
 
     <string-array name="i18n_settings_pref_themes">
-        <item>밝은</item>
-        <item>어두운</item>
+        <item>밝은 테마</item>
+        <item>어두운 테마</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_languages">
+        <item>영어</item>
+        <item>중국어</item>
+        <item>한국어</item>
+    </string-array>
+
+    <string-array name="i18n_settings_pref_start_page">
+        <item>둘러보기</item>
+        <item>투고 작품</item>
+        <item>알림</item>
+        <item>쪽지함</item>
+        <item>검색</item>
     </string-array>
 
     <string-array name="i18n_settings_notifications_timeout">
@@ -182,15 +237,15 @@
         <item>높은 우선순위</item>
         <item>중간 우선순위</item>
         <item>낮은 우선순위</item>
-        <item>보관</item>
+        <item>보관됨</item>
         <item>휴지통</item>
     </string-array>
 
     <string-array name="i18n_user_page_tabs">
         <item>프로필</item>
         <item>갤러리</item>
-        <item>좋아요</item>
-        <item>저널</item>
+        <item>좋아요 모아보기</item>
+        <item>일지</item>
         <item>구독</item>
         <item>방명록</item>
     </string-array>
@@ -203,23 +258,23 @@
     </string-array>
 
     <string-array name="i18n_message_center_tabs">
-        <item>저널</item>
+        <item>일지</item>
         <item>방명록</item>
         <item>댓글</item>
         <item>좋아요</item>
         <item>구독</item>
     </string-array>
 
-    <string name="i18n_rating_dialog_title">별점 주기</string>
-    <string name="i18n_rating_dialog_message">앱이 마음에 든다면, 리뷰를 작성해주세요\n\n감사합니다!</string>
-    <string name="i18n_rating_dialog_ok">네!</string>
-    <string name="i18n_rating_dialog_cancel">나중에</string>
+    <string name="i18n_rating_dialog_title">잘 사용하고 계신가요?</string>
+    <string name="i18n_rating_dialog_message">앱이 마음에 든다면, 리뷰 부탁드려요.\n\n감사합니다!</string>
+    <string name="i18n_rating_dialog_ok">네, 좋아요</string>
+    <string name="i18n_rating_dialog_cancel">나중에 할게요</string>
     <string name="i18n_rating_dialog_no">이미 했어요</string>
 
     <string-array name="i18n_search_view_criteria_entry">
-        <item>관련된</item>
-        <item>날짜</item>
-        <item>인기도</item>
+        <item>관련성 기준</item>
+        <item>날짜 기준</item>
+        <item>인기도 기준</item>
     </string-array>
 
     <string-array name="i18n_search_view_order_entry">
@@ -235,41 +290,43 @@
 
     <string-array name="i18n_search_view_range_entry">
         <item>하루</item>
-        <item>3일</item>
-        <item>일주일</item>
-        <item>한 달</item>
+        <item>최근 3일</item>
+        <item>최근 일주일</item>
+        <item>최근 한 달</item>
         <item>전체</item>
     </string-array>
 
-    <string name="i18n_search_view_sort_by_rating_title">수위 정렬</string>
-    <string name="i18n_search_view_sort_by_type_title">유형 정렬</string>
-    <string name="i18n_search_view_match_title">키워드 매칭</string>
+    <string name="i18n_search_view_sort_by_rating_title">표시할 수위 수준</string>
+    <string name="i18n_search_view_sort_by_type_title">표시할 유형</string>
+    <string name="i18n_search_view_match_title">일치 수준</string>
 
     <string-array name="i18n_search_view_match_entry">
-        <item>모든 단어</item>
-        <item>아무 단어</item>
-        <item>확장</item>
+        <item>모든 단어 일치</item>
+        <item>일부 단어 일치</item>
+        <item>확장 단어 일치</item>
     </string-array>
 
     <string-array name="i18n_submissions_ordered_titles">
-        <item>오래된</item>
-        <item>새로운</item>
+        <item>오래된순</item>
+        <item>최신순</item>
     </string-array>
 
-    <string name="i18n_toast_app_not_found_for_view">보기용 앱을 찾을 수 없습니다</string>
-    <string name="i18n_toast_comment_hide">댓글 숨기기</string>
-    <string name="i18n_toast_comment_sending">댓글 보내기</string>
-    <string name="i18n_toast_journal_link_copied">저널 링크 복사</string>
-    <string name="i18n_toast_deleted_notifications">삭제된 알림</string>
-    <string name="i18n_toast_replay_send">답장 보내기</string>
+    <string name="i18n_toast_app_not_found_for_view">볼 수 있는 앱이 없습니다</string>
+    <string name="i18n_toast_app_not_found_browser">브라우저 앱이 없습니다</string>
+    <string name="i18n_toast_app_not_found_sharing">공유할 수 있는 앱이 없습니다</string>
+    <string name="i18n_toast_comment_hide">댓글을 숨깁니다</string>
+    <string name="i18n_toast_comment_sending">댓글을 보냅니다</string>
+    <string name="i18n_toast_journal_link_copied">일지 링크가 복사되었습니다</string>
+    <string name="i18n_toast_deleted_notifications">알림이 삭제되었습니다</string>
+    <string name="i18n_toast_replay_send">답장을 보냅니다</string>
     <string name="i18n_toast_recipient_empty">받는사람을 입력하세요</string>
     <string name="i18n_toast_replay_not_send">답장을 보내지 못했습니다</string>
-    <string name="i18n_toast_note_send">노트 보내기</string>
-    <string name="i18n_toast_note_not_send">노트를 보내지 못했습니다</string>
-    <string name="i18n_toast_user_link_copied">유저 링크 복사</string>
+    <string name="i18n_toast_note_send">쪽지를 보냅니다</string>
+    <string name="i18n_toast_note_not_send">쪽지를 보내지 못했습니다</string>
+    <string name="i18n_toast_user_link_copied">사용자 링크를 복사했습니다</string>
     <string name="i18n_toast_shout_empty">내용을 입력하세요</string>
-    <string name="i18n_toast_shout_sending">전송중</string>
-    <string name="i18n_toast_view_link_copied">링크 복사</string>
+    <string name="i18n_toast_shout_sending">전송중입니다</string>
+    <string name="i18n_toast_view_link_copied">링크를 복사했습니다</string>
 
     <string name="i18n_snake_some_error">오류 발생</string>
     <string name="i18n_snake_action_renew">재시도</string>
@@ -277,5 +334,257 @@
 
     <string name="i18n_privacy_policy">이용약관</string>
 
-    <string name="i18n_share_link_using">링크 공유</string>
+    <string name="i18n_share_link_using">다음을 사용하여 링크 공유</string>
+
+    <string name="i18n_background_service">백그라운드 서비스</string>
+    <string name="i18n_background_service_group">백그라운드 서비스 작동중</string>
+    <string name="i18n_background_service_check_notifications">알림 확인</string>
+    <string name="i18n_background_service_handle_actions">액션 처리</string>
+    <string name="i18n_background_service_view_download">다운로드 </string>
+    <string name="i18n_background_service_submission_remove">제거</string>
+    <string name="i18n_background_service_submission_favorite">좋아요</string>
+
+    <string name="i18n_notification_workers_view_id_template">뷰 ID: </string>
+    <string name="i18n_notification_workers_submission_view_favorite_task_queue">투고 작품 작업: 대기열</string>
+    <string name="i18n_notification_workers_view_favorite_task_progress">좋아요 작업: 진행중</string>
+    <string name="i18n_notification_workers_view_favorite_task_fall">좋아요 작업: 실패</string>
+    <string name="i18n_notification_workers_un_view_add_progress">관심 없음 작업: 진행중</string>
+    <string name="i18n_notification_workers_un_view_add_fall">관심 없음: 실패</string>
+    <string name="i18n_notification_workers_view_task_progress">보기 작업: 진행중</string>
+    <string name="i18n_notification_workers_view_task_fall">보기 작업: 실패</string>
+    <string name="i18n_notification_workers_view_download_progress">다운로드 작업: 진행중</string>
+    <string name="i18n_notification_workers_view_download_fall">다운로드 작업: 실패</string>
+    <string name="i18n_notification_workers_submission_remove_progress">제거 작업: 진행중</string>
+    <string name="i18n_notification_workers_submission_remove_fall">제거 작업: 실패</string>
+
+    <string name="i18n_dialog_network_state_gone">인터넷 연결이 불안정합니다</string>
+    <string name="i18n_dialog_anti_ddos_is_failed">일시적으로 앱을 사용할 수 없습니다</string>
+    <string name="i18n_image_cant_shown">이미지를 표시할 수 없습니다</string>
+
+    <string name="i18n_view_activity_not_found">URL을 열 프로그램이 없습니다</string>
+
+    <string-array name="i18n_browse_category_entry">
+        <item>모두</item>
+        <item>아트워크 (디지털)</item>
+        <item>아트워크 (전통)</item>
+        <item>셀셰이딩</item>
+        <item>제작</item>
+        <item>디자인</item>
+        <item>퍼슈팅</item>
+        <item>아이콘</item>
+        <item>모자이크</item>
+        <item>사진</item>
+        <item>조각</item>
+        <item>이야기</item>
+        <item>시가</item>
+        <item>신문</item>
+        <item>스킨</item>
+        <item>휴대용</item>
+        <item>리소스</item>
+        <item>입양</item>
+        <item>경매</item>
+        <item>대회</item>
+        <item>진행중</item>
+        <item>데스크탑</item>
+        <item>스톡아트</item>
+        <item>스크린샷</item>
+        <item>스크랩</item>
+        <item>바탕화면</item>
+        <item>YCH / 판매</item>
+        <item>그 외</item>
+    </string-array>
+
+    <string-array name="i18n_browse_type_entry">
+        <item>모두</item>
+        <item>추상적</item>
+        <item>동물 관련 (비인간)</item>
+        <item>일본만화</item>
+        <item>코믹스</item>
+        <item>낙서</item>
+        <item>팬아트</item>
+        <item>판타지</item>
+        <item>인간</item>
+        <item>초상화</item>
+        <item>풍경</item>
+        <item>정물</item>
+        <item>튜토리얼</item>
+        <item>여러가지</item>
+        <item>아기 모피</item>
+        <item>속박</item>
+        <item>디지몬</item>
+        <item>뚱 모피</item>
+        <item>기타 페티시</item>
+        <item>퍼슈트</item>
+        <item>고어 / 섬뜩</item>
+        <item>거대</item>
+        <item>팽창</item>
+        <item>거대 / 왜소</item>
+        <item>근육</item>
+        <item>마이 리틀 포니 / 브로니</item>
+        <item>동물발</item>
+        <item>포켓몬</item>
+        <item>임신</item>
+        <item>소닉</item>
+        <item>변신</item>
+        <item>보어</item>
+        <item>소변</item>
+        <item>일반 퍼리</item>
+    </string-array>
+
+    <string-array name="i18n_browse_species_entry">
+        <item>불특정 / 무엇이든</item>
+        <item>양서류 (기타)</item>
+        <item>개구리</item>
+        <item>영원</item>
+        <item>도롱뇽</item>
+        <item>수상동물 (기타)</item>
+        <item>두족류</item>
+        <item>돌고래</item>
+        <item>고래</item>
+        <item>쇠돌고래</item>
+        <item>어류</item>
+        <item>상어</item>
+        <item>조류 (기타)</item>
+        <item>까마귀과</item>
+        <item>까마귀</item>
+        <item>오리</item>
+        <item>수리류</item>
+        <item>작은 매속</item>
+        <item>기러기</item>
+        <item>그리핀</item>
+        <item>큰 매속</item>
+        <item>올빼미목</item>
+        <item>피닉스</item>
+        <item>고니속</item>
+        <item>드래곤 (기타)</item>
+        <item>용</item>
+        <item>히드라</item>
+        <item>뱀</item>
+        <item>드래곤</item>
+        <item>와이번</item>
+        <item>왜래종 (기타)</item>
+        <item>외계종 (기타)</item>
+        <item>아르고니안</item>
+        <item>차캇</item>
+        <item>초코보</item>
+        <item>시트라</item>
+        <item>크룩스</item>
+        <item>마물</item>
+        <item>디지몬</item>
+        <item>드라켓</item>
+        <item>드레나이</item>
+        <item>엘프</item>
+        <item>가고일</item>
+        <item>익사르</item>
+        <item>랑구르할리</item>
+        <item>카이주/괴수</item>
+        <item>나가</item>
+        <item>모그리</item>
+        <item>오크</item>
+        <item>포켓몬</item>
+        <item>사티로스</item>
+        <item>세르갈</item>
+        <item>일본 너구리</item>
+        <item>유니콘</item>
+        <item>제노모프</item>
+        <item>포유류 (기타)</item>
+        <item>박쥐</item>
+        <item>곰</item>
+        <item>소</item>
+        <item>영양</item>
+        <item>가젤</item>
+        <item>염소</item>
+        <item>소과 (일반)</item>
+        <item>코요테</item>
+        <item>도베르만</item>
+        <item>개</item>
+        <item>딩고</item>
+        <item>저먼 셰퍼드</item>
+        <item>자칼</item>
+        <item>허스키</item>
+        <item>여우족 (기타)</item>
+        <item>늑대</item>
+        <item>개과 (기타)</item>
+        <item>사슴족 (기타)</item>
+        <item>당나귀</item>
+        <item>집고양이</item>
+        <item>치타</item>
+        <item>퓨마</item>
+        <item>재규어</item>
+        <item>표범</item>
+        <item>사자</item>
+        <item>스라소니</item>
+        <item>오셀롯</item>
+        <item>흑표범</item>
+        <item>호랑이</item>
+        <item>고양이과 (기타)</item>
+        <item>기린</item>
+        <item>고슴도치</item>
+        <item>하마</item>
+        <item>말</item>
+        <item>하이에나</item>
+        <item>라마</item>
+        <item>주머니쥐</item>
+        <item>캥거루</item>
+        <item>코알라</item>
+        <item>쿠올</item>
+        <item>왈라비</item>
+        <item>유대류 (기타)</item>
+        <item>미어캣</item>
+        <item>몽구스</item>
+        <item>오소리</item>
+        <item>페럿</item>
+        <item>수달</item>
+        <item>밍크</item>
+        <item>족제비</item>
+        <item>울버린</item>
+        <item>족제비과 (기타)</item>
+        <item>판다</item>
+        <item>돼지</item>
+        <item>고릴라</item>
+        <item>인간</item>
+        <item>여우원숭이</item>
+        <item>원숭이</item>
+        <item>영장류 (기타)</item>
+        <item>토끼/산토끼</item>
+        <item>라쿤</item>
+        <item>쥐</item>
+        <item>레서판다</item>
+        <item>코뿔소</item>
+        <item>비버</item>
+        <item>생쥐</item>
+        <item>설치류 (기타)</item>
+        <item>물범</item>
+        <item>스컹크</item>
+        <item>다람쥐</item>
+        <item>얼룩말</item>
+        <item>사막여우</item>
+        <item>조랑말</item>
+        <item>낙타</item>
+        <item>렙틸리언 (기타)</item>
+        <item>악어</item>
+        <item>게코</item>
+        <item>이구아나</item>
+        <item>도마뱀</item>
+        <item>뱀</item>
+        <item>거북</item>
+        <item>거미</item>
+        <item>공룡</item>
+        <item>곤충 (기타)</item>
+        <item>사마귀</item>
+        <item>전갈</item>
+    </string-array>
+
+    <string-array name="i18n_browse_gender_entry">
+        <item>모두</item>
+        <item>남성</item>
+        <item>여성</item>
+        <item>자웅동체</item>
+        <item>간성</item>
+        <item>트랜스 남성</item>
+        <item>트랜스 여성</item>
+        <item>논바이너리</item>
+        <item>복합성향</item>
+        <item>기타 / 불특정</item>
+    </string-array>
 </resources>
