@@ -209,6 +209,7 @@
         <item>English</item>
         <item>Chinese</item>
         <item>Korean</item>
+        <item>Portuguese</item>
     </string-array>
 
     <string-array name="i18n_settings_pref_start_page">

@@ -23,7 +23,7 @@
     <string name="i18n_gallery">Galeria</string>
     <string name="i18n_views">Visualizações</string>
     <string name="i18n_see_all">Ver tudo</string>
-    <string name="i18n_comment_1">Comente...</string>
+    <string name="i18n_comment_1">Comente…</string>
     <string name="i18n_reply">Responder</string>
     <string name="i18n_filter">Filtrar</string>
     <string name="i18n_type">Tipo</string>
@@ -155,10 +155,10 @@
     <string name="i18n_search_bar_help">Ajuda</string>
 
     <string name="i18n_search_help_ps_title">Poder de Pesquisa</string>
-    <string name="i18n_search_help_ps_text">A pesquisa compreende operadores booleanos básicos: \n\u25CF E: olá & amp; mundo \n\u25CF OU: olá | mundo \n\u25CF NÃO: olá -mundo -ou- olá! mundo \n\u25CF Agrupamento: (olá mundo) \n\n Exemplo: (gato -cão) | (gato -rato)</string>
+    <string name="i18n_search_help_ps_text">A pesquisa compreende operadores booleanos básicos: \n\u25CF E: olá &amp; amp; mundo \n\u25CF OU: olá | mundo \n\u25CF NÃO: olá -mundo -ou- olá! mundo \n\u25CF Agrupamento: (olá mundo) \n\n Exemplo: (gato -cão) | (gato -rato)</string>
 
     <string name="i18n_search_help_cap_title">Capacidades</string>
-    <string name="i18n_search_help_cap_text">\u25CF Pesquisa de campo: @title hello @message world\n\u25CF Pesquisa de frase:\ 'olá mundo \'\n\u25CF Pesquisa de proximidade de palavras: \'olá mundo \'~10\n\u25CF Correspondência quorum: \'the o mundo é um lugar maravilhoso\'/3\n\nExemplo:\'olá, mundo\'@title \'programa de exemplo\'~5 @message python -(php | perl)</string>
+    <string name="i18n_search_help_cap_text">\u25CF Pesquisa de campo: @title hello @message world\n\u25CF Pesquisa de frase: \'olá mundo\'\n\u25CF Pesquisa de proximidade de palavras: \'olá mundo \'~10\n\u25CF Correspondência quorum: \'the o mundo é um lugar maravilhoso\'/3\n\nExemplo:\'olá, mundo\'@title \'programa de exemplo\'~5 @message python -(php | perl)</string>
 
     <string name="i18n_search_help_af_title">Campos Disponíveis</string>
     <string name="i18n_search_help_af_text">\u25CF \@title \n\u25CF \@message \n\u25CF \@lower (nome do artista como aparece no URL da página do usuário)\n\u25CF \@keywords\n\nExemplo: fender @title fender -dragoneer -ferrox @message -rednef -dragoneer</string>

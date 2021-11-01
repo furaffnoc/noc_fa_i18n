@@ -76,7 +76,7 @@
     <string name="i18n_page">页面链接</string>
     <string name="i18n_content">内容链接</string>
     <string name="i18n_start_page">起始页</string>
-    
+
     <string name="i18n_art_on_background">背景艺术作品 -</string>
     <string name="i18n_flash_lioness">\@Flash_Lioness</string>
 
@@ -209,6 +209,7 @@
         <item>英语</item>
         <item>中文</item>
         <item>韩文</item>
+        <item>Portuguese</item>
     </string-array>
 
     <string-array name="i18n_settings_pref_start_page">
@@ -218,7 +219,7 @@
         <item>短信</item>
         <item>搜索</item>
     </string-array>
-    
+
     <string-array name="i18n_settings_notifications_timeout">
         <item>6小时</item>
         <item>4小时</item>
